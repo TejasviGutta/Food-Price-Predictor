@@ -1,24 +1,25 @@
 import pandas as pd
 import glob
+import os
 
-# Directory containing CSV files (adjust path as needed)
-directory = '/c:/Users/tejas/Downloads/Personal Projects/Food-Price-Predictor/'
+directory = r'C:\Users\tejas\Downloads\Personal Projects\Food-Price-Predictor'
 
-# Get all CSV files in the directory
-csv_files = glob.glob(directory + '*.csv')
+csv_files = [f for f in glob.glob(os.path.join(directory, '*.csv')) if 'combined_data.csv' not in f]
 
-# List to hold dataframes
+print(f"Found {len(csv_files)} CSV files.")
+
 dfs = []
 
-# Read each CSV file and append to list
 for file in csv_files:
-    df = pd.read_csv(file)
-    dfs.append(df)
+    try:
+        df = pd.read_csv(file)
+        dfs.append(df)
+    except Exception as e:
+        print(f"Error reading {file}: {e}")
 
-# Concatenate all dataframes (assuming same columns)
-combined_df = pd.concat(dfs, ignore_index=True)
-
-# Save combined dataframe to a new CSV file
-combined_df.to_csv(directory + 'combined_data.csv', index=False)
-
-print("CSV files combined successfully!")
+if not dfs:
+    print("No CSV files found.")
+else:
+    combined_df = pd.concat(dfs, ignore_index=True)
+    combined_df.to_csv(os.path.join(directory, 'combined_data.csv'), index=False)
+    print("CSV files combined successfully!")
