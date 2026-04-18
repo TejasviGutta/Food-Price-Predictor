@@ -1,0 +1,1380 @@
+country,commodity,year,cost_healthy_diet_ppp_usd,annual_cost_healthy_diet_usd,cost_vegetables_ppp_usd,cost_fruits_ppp_usd,total_food_components_cost,continent
+Albania,nan,2017.0,3.04,1109.6,,,,Europe
+Albania,nan,2018.0,3.13,1142.45,,,,Europe
+Albania,nan,2019.0,3.32,1211.8,,,,Europe
+Albania,nan,2020.0,3.4,1241.0,,,,Europe
+Albania,nan,2021.0,3.49,1273.85,0.6,0.77,1.37,Europe
+Albania,nan,2022.0,4.14,1511.1,,,,Europe
+Albania,nan,2023.0,4.58,1671.7,,,,Europe
+Albania,nan,2024.0,4.77,1741.05,,,,Europe
+Algeria,nan,2017.0,4.1,1496.4999999999998,,,,Africa
+Algeria,nan,2018.0,4.16,1518.4,,,,Africa
+Algeria,nan,2019.0,4.18,1525.6999999999998,,,,Africa
+Algeria,nan,2020.0,4.19,1529.35,,,,Africa
+Algeria,nan,2021.0,4.47,1631.55,0.72,1.1,1.82,Africa
+Algeria,nan,2022.0,5.01,1828.65,,,,Africa
+Algeria,nan,2023.0,5.41,1974.65,,,,Africa
+Algeria,nan,2024.0,5.53,2018.45,,,,Africa
+Angola,nan,2017.0,3.18,1160.7,,,,Africa
+Angola,nan,2018.0,3.27,1193.55,,,,Africa
+Angola,nan,2019.0,3.43,1251.95,,,,Africa
+Angola,nan,2020.0,3.7,1350.5,,,,Africa
+Angola,nan,2021.0,4.11,1500.15,0.44,0.75,1.19,Africa
+Angola,nan,2022.0,4.55,1660.75,,,,Africa
+Angola,nan,2023.0,4.72,1722.8,,,,Africa
+Angola,nan,2024.0,5.0,1825.0,,,,Africa
+Antigua and Barbuda,nan,2017.0,3.77,1376.05,,,,North America
+Antigua and Barbuda,nan,2018.0,4.24,1547.6,,,,North America
+Antigua and Barbuda,nan,2019.0,4.38,1598.7,,,,North America
+Antigua and Barbuda,nan,2020.0,4.67,1704.55,,,,North America
+Antigua and Barbuda,nan,2021.0,4.92,1795.8,1.26,1.59,2.85,North America
+Antigua and Barbuda,nan,2022.0,5.46,1992.9,,,,North America
+Antigua and Barbuda,nan,2023.0,5.8,2117.0,,,,North America
+Antigua and Barbuda,nan,2024.0,5.9,2153.5,,,,North America
+Argentina,nan,2017.0,3.26,1189.9,,,,South America
+Armenia,nan,2017.0,3.22,1175.3000000000002,,,,Asia
+Armenia,nan,2018.0,3.31,1208.15,,,,Asia
+Armenia,nan,2019.0,3.44,1255.6,,,,Asia
+Armenia,nan,2020.0,3.54,1292.1,,,,Asia
+Armenia,nan,2021.0,3.8,1387.0,0.6,0.92,1.52,Asia
+Armenia,nan,2022.0,4.27,1558.55,,,,Asia
+Armenia,nan,2023.0,4.33,1580.45,,,,Asia
+Armenia,nan,2024.0,4.35,1587.7499999999998,,,,Asia
+Aruba,nan,2017.0,3.38,1233.7,,,,North America
+Aruba,nan,2018.0,3.55,1295.75,,,,North America
+Aruba,nan,2019.0,3.79,1383.35,,,,North America
+Aruba,nan,2020.0,3.9,1423.5,,,,North America
+Aruba,nan,2021.0,4.0,1460.0,1.0,1.09,2.09,North America
+Aruba,nan,2022.0,4.5,1642.5,,,,North America
+Aruba,nan,2023.0,4.82,1759.3000000000002,,,,North America
+Aruba,nan,2024.0,5.0,1825.0,,,,North America
+Australia,nan,2017.0,2.33,850.45,,,,Oceania
+Australia,nan,2018.0,2.36,861.4,,,,Oceania
+Australia,nan,2019.0,2.4,876.0,,,,Oceania
+Australia,nan,2020.0,2.51,916.15,,,,Oceania
+Australia,nan,2021.0,2.61,952.65,0.73,0.78,1.51,Oceania
+Australia,nan,2022.0,2.88,1051.2,,,,Oceania
+Australia,nan,2023.0,3.1,1131.5,,,,Oceania
+Australia,nan,2024.0,3.2,1168.0,,,,Oceania
+Austria,nan,2017.0,2.06,751.9,,,,Europe
+Austria,nan,2018.0,2.11,770.15,,,,Europe
+Austria,nan,2019.0,2.19,799.35,,,,Europe
+Austria,nan,2020.0,2.3,839.4999999999999,,,,Europe
+Austria,nan,2021.0,2.42,883.3,0.72,0.72,1.44,Europe
+Austria,nan,2022.0,2.75,1003.75,,,,Europe
+Austria,nan,2023.0,2.91,1062.15,,,,Europe
+Austria,nan,2024.0,2.99,1091.35,,,,Europe
+Azerbaijan,nan,2017.0,2.9,1058.5,,,,Asia
+Azerbaijan,nan,2018.0,2.95,1076.75,,,,Asia
+Azerbaijan,nan,2019.0,3.1,1131.5,,,,Asia
+Azerbaijan,nan,2020.0,3.28,1197.1999999999998,,,,Asia
+Azerbaijan,nan,2021.0,3.44,1255.6,0.46,0.66,1.12,Asia
+Azerbaijan,nan,2022.0,3.92,1430.8,,,,Asia
+Azerbaijan,nan,2023.0,4.13,1507.45,,,,Asia
+Azerbaijan,nan,2024.0,4.2,1533.0,,,,Asia
+Bahamas,nan,2017.0,4.2,1533.0,,,,North America
+Bahamas,nan,2018.0,4.23,1543.95,,,,North America
+Bahamas,nan,2019.0,4.12,1503.8,,,,North America
+Bahamas,nan,2020.0,4.19,1529.35,,,,North America
+Bahamas,nan,2021.0,4.28,1562.2,,,,North America
+Bahamas,nan,2022.0,4.96,1810.4,,,,North America
+Bahamas,nan,2023.0,5.25,1916.25,,,,North America
+Bahamas,nan,2024.0,5.54,2022.1,,,,North America
+Bahrain,nan,2017.0,3.04,1109.6,,,,Asia
+Bahrain,nan,2018.0,3.19,1164.35,,,,Asia
+Bahrain,nan,2019.0,3.3,1204.5,,,,Asia
+Bahrain,nan,2020.0,3.42,1248.3,,,,Asia
+Bahrain,nan,2021.0,3.25,1186.25,0.74,0.41,1.15,Asia
+Bahrain,nan,2022.0,3.74,1365.1,,,,Asia
+Bahrain,nan,2023.0,4.12,1503.8,,,,Asia
+Bahrain,nan,2024.0,4.33,1580.45,,,,Asia
+Bangladesh,nan,2017.0,3.09,1127.85,,,,Asia
+Bangladesh,nan,2018.0,3.26,1189.9,,,,Asia
+Bangladesh,nan,2019.0,3.4,1241.0,,,,Asia
+Bangladesh,nan,2020.0,3.61,1317.65,,,,Asia
+Bangladesh,nan,2021.0,3.83,1397.95,0.76,0.66,1.42,Asia
+Bangladesh,nan,2022.0,4.13,1507.45,,,,Asia
+Bangladesh,nan,2023.0,4.33,1580.45,,,,Asia
+Bangladesh,nan,2024.0,4.49,1638.85,,,,Asia
+Belarus,nan,2017.0,3.13,1142.45,,,,Europe
+Belarus,nan,2018.0,3.13,1142.45,,,,Europe
+Belarus,nan,2019.0,3.19,1164.35,,,,Europe
+Belarus,nan,2020.0,3.22,1175.3000000000002,,,,Europe
+Belarus,nan,2021.0,3.3,1204.5,0.48,0.94,1.42,Europe
+Belarus,nan,2022.0,3.6,1314.0,,,,Europe
+Belarus,nan,2023.0,3.72,1357.8000000000002,,,,Europe
+Belarus,nan,2024.0,3.83,1397.95,,,,Europe
+Belgium,nan,2017.0,2.0,730.0,,,,Europe
+Belgium,nan,2018.0,2.07,755.55,,,,Europe
+Belgium,nan,2019.0,2.16,788.4000000000001,,,,Europe
+Belgium,nan,2020.0,2.28,832.1999999999999,,,,Europe
+Belgium,nan,2021.0,2.26,824.9,0.62,0.74,1.36,Europe
+Belgium,nan,2022.0,2.49,908.85,,,,Europe
+Belgium,nan,2023.0,2.77,1011.05,,,,Europe
+Belgium,nan,2024.0,2.81,1025.65,,,,Europe
+Belize,nan,2017.0,2.56,934.4,,,,North America
+Belize,nan,2018.0,2.69,981.85,,,,North America
+Belize,nan,2019.0,2.9,1058.5,,,,North America
+Belize,nan,2020.0,3.16,1153.4,,,,North America
+Belize,nan,2021.0,3.52,1284.8,1.22,0.28,1.5,North America
+Belize,nan,2022.0,3.85,1405.25,,,,North America
+Belize,nan,2023.0,4.32,1576.8000000000002,,,,North America
+Belize,nan,2024.0,4.54,1657.1,,,,North America
+Benin,nan,2017.0,2.85,1040.25,,,,Africa
+Benin,nan,2018.0,2.87,1047.55,,,,Africa
+Benin,nan,2019.0,2.89,1054.85,,,,Africa
+Benin,nan,2020.0,2.9,1058.5,,,,Africa
+Benin,nan,2021.0,3.07,1120.55,0.57,0.36,0.93,Africa
+Benin,nan,2022.0,3.25,1186.25,,,,Africa
+Benin,nan,2023.0,3.3,1204.5,,,,Africa
+Benin,nan,2024.0,3.39,1237.35,,,,Africa
+Bermuda,nan,2017.0,2.88,1051.2,,,,North America
+Bermuda,nan,2018.0,2.94,1073.1,,,,North America
+Bermuda,nan,2019.0,3.12,1138.8,,,,North America
+Bermuda,nan,2020.0,3.33,1215.45,,,,North America
+Bermuda,nan,2021.0,3.55,1295.75,1.07,0.37,1.44,North America
+Bermuda,nan,2022.0,3.96,1445.4,,,,North America
+Bermuda,nan,2023.0,4.23,1543.95,,,,North America
+Bermuda,nan,2024.0,4.39,1602.35,,,,North America
+Bhutan,nan,2017.0,4.14,1511.1,,,,Asia
+Bhutan,nan,2018.0,4.31,1573.15,,,,Asia
+Bhutan,nan,2019.0,4.44,1620.6,,,,Asia
+Bhutan,nan,2020.0,4.86,1773.9,,,,Asia
+Bhutan,nan,2021.0,5.14,1876.1,0.99,1.5,2.49,Asia
+Bhutan,nan,2022.0,5.48,2000.2,,,,Asia
+Bhutan,nan,2023.0,5.69,2076.8500000000004,,,,Asia
+Bhutan,nan,2024.0,5.96,2175.4,,,,Asia
+Bolivia (Plurinational State of),nan,2017.0,3.62,1321.3,,,,
+Bolivia (Plurinational State of),nan,2018.0,3.61,1317.65,,,,
+Bolivia (Plurinational State of),nan,2019.0,3.75,1368.75,,,,
+Bolivia (Plurinational State of),nan,2020.0,3.78,1379.6999999999998,,,,
+Bolivia (Plurinational State of),nan,2021.0,3.96,1445.4,0.71,0.67,1.38,
+Bolivia (Plurinational State of),nan,2022.0,4.3,1569.5,,,,
+Bolivia (Plurinational State of),nan,2023.0,4.57,1668.0500000000002,,,,
+Bolivia (Plurinational State of),nan,2024.0,4.82,1759.3000000000002,,,,
+Bosnia and Herzegovina,nan,2017.0,4.07,1485.5500000000002,,,,Europe
+Bosnia and Herzegovina,nan,2018.0,4.13,1507.45,,,,Europe
+Bosnia and Herzegovina,nan,2019.0,4.34,1584.1,,,,Europe
+Bosnia and Herzegovina,nan,2020.0,4.34,1584.1,,,,Europe
+Bosnia and Herzegovina,nan,2021.0,4.54,1657.1,1.17,0.73,1.9,Europe
+Bosnia and Herzegovina,nan,2022.0,5.48,2000.2,,,,Europe
+Bosnia and Herzegovina,nan,2023.0,5.95,2171.75,,,,Europe
+Bosnia and Herzegovina,nan,2024.0,6.15,2244.75,,,,Europe
+Botswana,nan,2017.0,3.01,1098.65,,,,Africa
+Botswana,nan,2018.0,3.0,1095.0,,,,Africa
+Botswana,nan,2019.0,3.04,1109.6,,,,Africa
+Botswana,nan,2020.0,3.21,1171.65,,,,Africa
+Botswana,nan,2021.0,3.41,1244.65,0.58,0.43,1.01,Africa
+Botswana,nan,2022.0,3.62,1321.3,,,,Africa
+Botswana,nan,2023.0,4.01,1463.65,,,,Africa
+Botswana,nan,2024.0,4.21,1536.65,,,,Africa
+Brazil,nan,2017.0,3.15,1149.75,,,,South America
+Brazil,nan,2018.0,3.23,1178.95,,,,South America
+Brazil,nan,2019.0,3.39,1237.35,,,,South America
+Brazil,nan,2020.0,3.69,1346.85,,,,South America
+Brazil,nan,2021.0,3.97,1449.0500000000002,0.69,0.67,1.36,South America
+Brazil,nan,2022.0,4.39,1602.35,,,,South America
+Brazil,nan,2023.0,4.55,1660.75,,,,South America
+Brazil,nan,2024.0,4.69,1711.85,,,,South America
+British Virgin Islands,nan,2017.0,3.5,1277.5,,,,North America
+British Virgin Islands,nan,2018.0,3.53,1288.4499999999998,,,,North America
+British Virgin Islands,nan,2019.0,3.64,1328.6,,,,North America
+British Virgin Islands,nan,2020.0,3.78,1379.6999999999998,,,,North America
+British Virgin Islands,nan,2021.0,3.94,1438.1,0.97,0.92,1.89,North America
+British Virgin Islands,nan,2022.0,4.78,1744.7,,,,North America
+British Virgin Islands,nan,2023.0,5.05,1843.25,,,,North America
+British Virgin Islands,nan,2024.0,5.23,1908.95,,,,North America
+Brunei Darussalam,nan,2017.0,4.11,1500.15,,,,
+Brunei Darussalam,nan,2018.0,4.26,1554.9,,,,
+Brunei Darussalam,nan,2019.0,4.36,1591.4,,,,
+Brunei Darussalam,nan,2020.0,4.55,1660.75,,,,
+Brunei Darussalam,nan,2021.0,4.85,1770.2499999999998,1.3,0.93,2.23,
+Brunei Darussalam,nan,2022.0,5.32,1941.8,,,,
+Brunei Darussalam,nan,2023.0,5.67,2069.55,,,,
+Brunei Darussalam,nan,2024.0,5.89,2149.85,,,,
+Bulgaria,nan,2017.0,3.39,1237.35,,,,Europe
+Bulgaria,nan,2018.0,3.47,1266.5500000000002,,,,Europe
+Bulgaria,nan,2019.0,3.67,1339.55,,,,Europe
+Bulgaria,nan,2020.0,3.8,1387.0,,,,Europe
+Bulgaria,nan,2021.0,3.93,1434.45,0.85,0.87,1.72,Europe
+Bulgaria,nan,2022.0,4.72,1722.8,,,,Europe
+Bulgaria,nan,2023.0,5.16,1883.4,,,,Europe
+Bulgaria,nan,2024.0,5.32,1941.8,,,,Europe
+Burkina Faso,nan,2017.0,2.77,1011.05,,,,Africa
+Burkina Faso,nan,2018.0,2.82,1029.3,,,,Africa
+Burkina Faso,nan,2019.0,2.72,992.8,,,,Africa
+Burkina Faso,nan,2020.0,2.8,1022.0,,,,Africa
+Burkina Faso,nan,2021.0,2.97,1084.0500000000002,0.57,0.39,0.96,Africa
+Burkina Faso,nan,2022.0,3.48,1270.2,,,,Africa
+Burkina Faso,nan,2023.0,3.55,1295.75,,,,Africa
+Burkina Faso,nan,2024.0,3.73,1361.45,,,,Africa
+Burundi,nan,2017.0,3.4,1241.0,,,,Africa
+Burundi,nan,2018.0,3.12,1138.8,,,,Africa
+Burundi,nan,2019.0,3.1,1131.5,,,,Africa
+Burundi,nan,2020.0,3.33,1215.45,,,,Africa
+Burundi,nan,2021.0,3.54,1292.1,0.42,0.45,0.87,Africa
+Burundi,nan,2022.0,4.0,1460.0,,,,Africa
+Burundi,nan,2023.0,4.5,1642.5,,,,Africa
+Burundi,nan,2024.0,4.55,1660.75,,,,Africa
+Cabo Verde,nan,2017.0,3.16,1153.4,,,,Africa
+Cabo Verde,nan,2018.0,2.92,1065.8,,,,Africa
+Cabo Verde,nan,2019.0,2.86,1043.9,,,,Africa
+Cabo Verde,nan,2020.0,2.83,1032.95,,,,Africa
+Cabo Verde,nan,2021.0,2.92,1065.8,0.96,0.51,1.47,Africa
+Cabo Verde,nan,2022.0,3.38,1233.7,,,,Africa
+Cabo Verde,nan,2023.0,3.69,1346.85,,,,Africa
+Cabo Verde,nan,2024.0,3.81,1390.65,,,,Africa
+Cambodia,nan,2017.0,3.55,1295.75,,,,Asia
+Cambodia,nan,2018.0,3.62,1321.3,,,,Asia
+Cambodia,nan,2019.0,3.68,1343.2,,,,Asia
+Cambodia,nan,2020.0,3.84,1401.6,,,,Asia
+Cambodia,nan,2021.0,3.95,1441.75,1.03,0.56,1.59,Asia
+Cambodia,nan,2022.0,4.25,1551.25,,,,Asia
+Cambodia,nan,2023.0,4.47,1631.55,,,,Asia
+Cambodia,nan,2024.0,4.6,1678.9999999999998,,,,Asia
+Cameroon,nan,2017.0,2.6,949.0,,,,Africa
+Cameroon,nan,2018.0,2.74,1000.1,,,,Africa
+Cameroon,nan,2019.0,2.9,1058.5,,,,Africa
+Cameroon,nan,2020.0,3.1,1131.5,,,,Africa
+Cameroon,nan,2021.0,3.41,1244.65,0.39,0.27,0.66,Africa
+Cameroon,nan,2022.0,3.9,1423.5,,,,Africa
+Cameroon,nan,2023.0,4.2,1533.0,,,,Africa
+Cameroon,nan,2024.0,4.38,1598.7,,,,Africa
+Canada,nan,2017.0,3.08,1124.2,,,,North America
+Canada,nan,2018.0,3.13,1142.45,,,,North America
+Canada,nan,2019.0,3.19,1164.35,,,,North America
+Canada,nan,2020.0,3.33,1215.45,,,,North America
+Canada,nan,2021.0,3.52,1284.8,0.88,0.91,1.79,North America
+Canada,nan,2022.0,3.92,1430.8,,,,North America
+Canada,nan,2023.0,4.27,1558.55,,,,North America
+Canada,nan,2024.0,4.39,1602.35,,,,North America
+Cayman Islands,nan,2017.0,3.5,1277.5,,,,North America
+Cayman Islands,nan,2018.0,3.64,1328.6,,,,North America
+Cayman Islands,nan,2019.0,3.61,1317.65,,,,North America
+Cayman Islands,nan,2020.0,3.81,1390.65,,,,North America
+Cayman Islands,nan,2021.0,4.09,1492.85,0.89,1.19,2.08,North America
+Cayman Islands,nan,2022.0,4.33,1580.45,,,,North America
+Cayman Islands,nan,2023.0,4.61,1682.65,,,,North America
+Cayman Islands,nan,2024.0,4.7,1715.5,,,,North America
+Central African Republic,nan,2017.0,2.95,1076.75,,,,Africa
+Central African Republic,nan,2018.0,3.08,1124.2,,,,Africa
+Central African Republic,nan,2019.0,3.22,1175.3000000000002,,,,Africa
+Central African Republic,nan,2020.0,3.38,1233.7,,,,Africa
+Central African Republic,nan,2021.0,3.63,1324.95,0.94,0.23,1.17,Africa
+Central African Republic,nan,2022.0,3.92,1430.8,,,,Africa
+Central African Republic,nan,2023.0,4.08,1489.2,,,,Africa
+Central African Republic,nan,2024.0,4.21,1536.65,,,,Africa
+Chad,nan,2017.0,2.82,1029.3,,,,Africa
+Chad,nan,2018.0,2.8,1022.0,,,,Africa
+Chad,nan,2019.0,2.8,1022.0,,,,Africa
+Chad,nan,2020.0,2.95,1076.75,,,,Africa
+Chad,nan,2021.0,3.04,1109.6,0.43,0.27,0.7,Africa
+Chad,nan,2022.0,3.49,1273.85,,,,Africa
+Chad,nan,2023.0,3.77,1376.05,,,,Africa
+Chad,nan,2024.0,3.94,1438.1,,,,Africa
+Chile,nan,2017.0,3.38,1233.7,,,,South America
+Chile,nan,2018.0,3.52,1284.8,,,,South America
+Chile,nan,2019.0,3.66,1335.9,,,,South America
+Chile,nan,2020.0,3.79,1383.35,,,,South America
+Chile,nan,2021.0,3.87,1412.55,1.05,0.75,1.8,South America
+Chile,nan,2022.0,4.42,1613.3,,,,South America
+Chile,nan,2023.0,5.04,1839.6,,,,South America
+Chile,nan,2024.0,5.22,1905.3,,,,South America
+"China, Hong Kong SAR",nan,2017.0,3.33,1215.45,,,,
+"China, Hong Kong SAR",nan,2018.0,3.44,1255.6,,,,
+"China, Hong Kong SAR",nan,2019.0,3.78,1379.6999999999998,,,,
+"China, Hong Kong SAR",nan,2020.0,4.04,1474.6,,,,
+"China, Hong Kong SAR",nan,2021.0,4.2,1533.0,0.92,0.81,1.73,
+"China, Hong Kong SAR",nan,2022.0,4.65,1697.2500000000002,,,,
+"China, Hong Kong SAR",nan,2023.0,4.77,1741.05,,,,
+"China, Hong Kong SAR",nan,2024.0,4.81,1755.65,,,,
+"China, Taiwan Province of",nan,2017.0,4.0,1460.0,,,,
+"China, Taiwan Province of",nan,2021.0,4.95,1806.75,1.15,0.75,1.9,
+"China, mainland",nan,2017.0,2.8,1022.0,,,,
+"China, mainland",nan,2018.0,2.82,1029.3,,,,
+"China, mainland",nan,2019.0,3.0,1095.0,,,,
+"China, mainland",nan,2020.0,3.25,1186.25,,,,
+"China, mainland",nan,2021.0,3.13,1142.45,0.6,0.74,1.34,
+"China, mainland",nan,2022.0,3.41,1244.65,,,,
+"China, mainland",nan,2023.0,3.53,1288.4499999999998,,,,
+"China, mainland",nan,2024.0,3.6,1314.0,,,,
+Colombia,nan,2017.0,2.84,1036.6,,,,South America
+Colombia,nan,2018.0,2.87,1047.55,,,,South America
+Colombia,nan,2019.0,2.95,1076.75,,,,South America
+Colombia,nan,2020.0,3.15,1149.75,,,,South America
+Colombia,nan,2021.0,3.3,1204.5,0.8,0.53,1.33,South America
+Colombia,nan,2022.0,4.06,1481.9,,,,South America
+Colombia,nan,2023.0,4.69,1711.85,,,,South America
+Colombia,nan,2024.0,4.67,1704.55,,,,South America
+Comoros,nan,2017.0,4.61,1682.65,,,,Africa
+Comoros,nan,2018.0,4.55,1660.75,,,,Africa
+Comoros,nan,2019.0,4.54,1657.1,,,,Africa
+Comoros,nan,2020.0,4.49,1638.85,,,,Africa
+Comoros,nan,2021.0,4.48,1635.2,1.14,0.47,1.61,Africa
+Comoros,nan,2022.0,4.75,1733.75,,,,Africa
+Comoros,nan,2023.0,4.93,1799.4499999999998,,,,Africa
+Comoros,nan,2024.0,5.14,1876.1,,,,Africa
+Congo,nan,2017.0,3.04,1109.6,,,,
+Congo,nan,2018.0,3.16,1153.4,,,,
+Congo,nan,2019.0,3.24,1182.6,,,,
+Congo,nan,2020.0,3.43,1251.95,,,,
+Congo,nan,2021.0,3.74,1365.1,0.77,0.41,1.18,
+Congo,nan,2022.0,4.16,1518.4,,,,
+Congo,nan,2023.0,4.33,1580.45,,,,
+Congo,nan,2024.0,4.43,1616.9499999999998,,,,
+Costa Rica,nan,2017.0,3.54,1292.1,,,,North America
+Costa Rica,nan,2018.0,3.58,1306.7,,,,North America
+Costa Rica,nan,2019.0,3.67,1339.55,,,,North America
+Costa Rica,nan,2020.0,3.56,1299.4,,,,North America
+Costa Rica,nan,2021.0,3.7,1350.5,0.86,0.58,1.44,North America
+Costa Rica,nan,2022.0,4.13,1507.45,,,,North America
+Costa Rica,nan,2023.0,4.52,1649.8,,,,North America
+Costa Rica,nan,2024.0,4.62,1686.3,,,,North America
+Croatia,nan,2017.0,3.31,1208.15,,,,Europe
+Croatia,nan,2018.0,3.35,1222.75,,,,Europe
+Croatia,nan,2019.0,3.44,1255.6,,,,Europe
+Croatia,nan,2020.0,3.53,1288.4499999999998,,,,Europe
+Croatia,nan,2021.0,3.71,1354.15,0.88,0.76,1.64,Europe
+Croatia,nan,2022.0,4.21,1536.65,,,,Europe
+Croatia,nan,2023.0,4.52,1649.8,,,,Europe
+Croatia,nan,2024.0,4.7,1715.5,,,,Europe
+CuraÃ§ao,nan,2017.0,2.95,1076.75,,,,
+CuraÃ§ao,nan,2018.0,3.13,1142.45,,,,
+CuraÃ§ao,nan,2019.0,3.35,1222.75,,,,
+CuraÃ§ao,nan,2020.0,3.65,1332.25,,,,
+CuraÃ§ao,nan,2021.0,4.0,1460.0,0.97,1.0,1.97,
+CuraÃ§ao,nan,2022.0,4.44,1620.6,,,,
+CuraÃ§ao,nan,2023.0,5.01,1828.65,,,,
+CuraÃ§ao,nan,2024.0,5.54,2022.1,,,,
+Cyprus,nan,2017.0,2.89,1054.85,,,,Asia
+Cyprus,nan,2018.0,2.93,1069.45,,,,Asia
+Cyprus,nan,2019.0,3.04,1109.6,,,,Asia
+Cyprus,nan,2020.0,3.14,1146.1,,,,Asia
+Cyprus,nan,2021.0,3.1,1131.5,0.72,0.73,1.45,Asia
+Cyprus,nan,2022.0,3.44,1255.6,,,,Asia
+Cyprus,nan,2023.0,3.65,1332.25,,,,Asia
+Cyprus,nan,2024.0,3.82,1394.3,,,,Asia
+Czechia,nan,2017.0,2.81,1025.65,,,,Europe
+Czechia,nan,2018.0,2.83,1032.95,,,,Europe
+Czechia,nan,2019.0,2.97,1084.0500000000002,,,,Europe
+Czechia,nan,2020.0,3.0,1095.0,,,,Europe
+Czechia,nan,2021.0,2.9,1058.5,0.72,0.61,1.33,Europe
+Czechia,nan,2022.0,3.36,1226.4,,,,Europe
+Czechia,nan,2023.0,3.65,1332.25,,,,Europe
+Czechia,nan,2024.0,3.58,1306.7,,,,Europe
+CÃ´te d'Ivoire,nan,2017.0,2.66,970.9,,,,
+CÃ´te d'Ivoire,nan,2018.0,2.69,981.85,,,,
+CÃ´te d'Ivoire,nan,2019.0,2.66,970.9,,,,
+CÃ´te d'Ivoire,nan,2020.0,2.73,996.45,,,,
+CÃ´te d'Ivoire,nan,2021.0,2.91,1062.15,0.31,0.27,0.5800000000000001,
+CÃ´te d'Ivoire,nan,2022.0,3.25,1186.25,,,,
+CÃ´te d'Ivoire,nan,2023.0,3.45,1259.25,,,,
+CÃ´te d'Ivoire,nan,2024.0,3.58,1306.7,,,,
+Democratic Republic of the Congo,nan,2017.0,4.27,1558.55,,,,
+Democratic Republic of the Congo,nan,2018.0,3.46,1262.9,,,,
+Democratic Republic of the Congo,nan,2019.0,3.44,1255.6,,,,
+Democratic Republic of the Congo,nan,2020.0,3.21,1171.65,,,,
+Democratic Republic of the Congo,nan,2021.0,3.11,1135.15,0.3,0.27,0.5700000000000001,
+Democratic Republic of the Congo,nan,2022.0,3.38,1233.7,,,,
+Democratic Republic of the Congo,nan,2023.0,3.55,1295.75,,,,
+Democratic Republic of the Congo,nan,2024.0,3.46,1262.9,,,,
+Denmark,nan,2017.0,2.2,803.0000000000001,,,,Europe
+Denmark,nan,2018.0,2.26,824.9,,,,Europe
+Denmark,nan,2019.0,2.34,854.0999999999999,,,,Europe
+Denmark,nan,2020.0,2.41,879.6500000000001,,,,Europe
+Denmark,nan,2021.0,2.49,908.85,0.66,0.6,1.26,Europe
+Denmark,nan,2022.0,2.72,992.8,,,,Europe
+Denmark,nan,2023.0,2.94,1073.1,,,,Europe
+Denmark,nan,2024.0,3.03,1105.9499999999998,,,,Europe
+Djibouti,nan,2017.0,2.97,1084.0500000000002,,,,Africa
+Djibouti,nan,2018.0,3.0,1095.0,,,,Africa
+Djibouti,nan,2019.0,3.1,1131.5,,,,Africa
+Djibouti,nan,2020.0,3.24,1182.6,,,,Africa
+Djibouti,nan,2021.0,3.4,1241.0,0.64,0.46,1.1,Africa
+Djibouti,nan,2022.0,3.86,1408.9,,,,Africa
+Djibouti,nan,2023.0,4.06,1481.9,,,,Africa
+Djibouti,nan,2024.0,4.2,1533.0,,,,Africa
+Dominica,nan,2017.0,4.28,1562.2,,,,North America
+Dominica,nan,2018.0,4.55,1660.75,,,,North America
+Dominica,nan,2019.0,4.75,1733.75,,,,North America
+Dominica,nan,2020.0,5.0,1825.0,,,,North America
+Dominica,nan,2021.0,5.26,1919.9,1.62,0.9,2.52,North America
+Dominica,nan,2022.0,5.69,2076.8500000000004,,,,North America
+Dominica,nan,2023.0,6.08,2219.2,,,,North America
+Dominica,nan,2024.0,6.36,2321.4,,,,North America
+Dominican Republic,nan,2017.0,3.39,1237.35,,,,North America
+Dominican Republic,nan,2018.0,3.48,1270.2,,,,North America
+Dominican Republic,nan,2019.0,3.74,1365.1,,,,North America
+Dominican Republic,nan,2020.0,4.05,1478.25,,,,North America
+Dominican Republic,nan,2021.0,4.41,1609.65,0.95,0.58,1.5299999999999998,North America
+Dominican Republic,nan,2022.0,4.87,1777.55,,,,North America
+Dominican Republic,nan,2023.0,5.21,1901.65,,,,North America
+Dominican Republic,nan,2024.0,5.4,1971.0,,,,North America
+Ecuador,nan,2017.0,2.5,912.5,,,,South America
+Ecuador,nan,2018.0,2.54,927.1,,,,South America
+Ecuador,nan,2019.0,2.63,959.95,,,,South America
+Ecuador,nan,2020.0,2.77,1011.05,,,,South America
+Ecuador,nan,2021.0,2.91,1062.15,0.44,0.38,0.8200000000000001,South America
+Ecuador,nan,2022.0,3.19,1164.35,,,,South America
+Ecuador,nan,2023.0,3.43,1251.95,,,,South America
+Ecuador,nan,2024.0,3.56,1299.4,,,,South America
+Egypt,nan,2017.0,3.81,1390.65,,,,Africa
+Egypt,nan,2018.0,4.02,1467.3,,,,Africa
+Egypt,nan,2019.0,3.98,1452.7,,,,Africa
+Egypt,nan,2020.0,3.88,1416.2,,,,Africa
+Egypt,nan,2021.0,4.01,1463.65,0.52,0.42,0.94,Africa
+Egypt,nan,2022.0,4.69,1711.85,,,,Africa
+Egypt,nan,2023.0,5.96,2175.4,,,,Africa
+Egypt,nan,2024.0,6.38,2328.7,,,,Africa
+Equatorial Guinea,nan,2017.0,3.7,1350.5,,,,Africa
+Equatorial Guinea,nan,2018.0,3.77,1376.05,,,,Africa
+Equatorial Guinea,nan,2019.0,3.81,1390.65,,,,Africa
+Equatorial Guinea,nan,2020.0,3.93,1434.45,,,,Africa
+Equatorial Guinea,nan,2021.0,4.07,1485.5500000000002,1.08,0.38,1.46,Africa
+Equatorial Guinea,nan,2022.0,4.43,1616.9499999999998,,,,Africa
+Equatorial Guinea,nan,2023.0,4.62,1686.3,,,,Africa
+Equatorial Guinea,nan,2024.0,4.79,1748.35,,,,Africa
+Estonia,nan,2017.0,3.14,1146.1,,,,Europe
+Estonia,nan,2018.0,3.21,1171.65,,,,Europe
+Estonia,nan,2019.0,3.35,1222.75,,,,Europe
+Estonia,nan,2020.0,3.43,1251.95,,,,Europe
+Estonia,nan,2021.0,3.34,1219.1,0.81,0.64,1.4500000000000002,Europe
+Estonia,nan,2022.0,3.76,1372.4,,,,Europe
+Estonia,nan,2023.0,4.21,1536.65,,,,Europe
+Estonia,nan,2024.0,4.32,1576.8000000000002,,,,Europe
+Eswatini,nan,2017.0,3.36,1226.4,,,,Africa
+Eswatini,nan,2018.0,3.31,1208.15,,,,Africa
+Eswatini,nan,2019.0,3.33,1215.45,,,,Africa
+Eswatini,nan,2020.0,3.41,1244.65,,,,Africa
+Eswatini,nan,2021.0,3.62,1321.3,0.82,0.32,1.14,Africa
+Eswatini,nan,2022.0,3.96,1445.4,,,,Africa
+Eswatini,nan,2023.0,4.09,1492.85,,,,Africa
+Eswatini,nan,2024.0,4.21,1536.65,,,,Africa
+Ethiopia,nan,2017.0,2.94,1073.1,,,,Africa
+Ethiopia,nan,2018.0,3.03,1105.9499999999998,,,,Africa
+Ethiopia,nan,2019.0,3.27,1193.55,,,,Africa
+Ethiopia,nan,2020.0,3.52,1284.8,,,,Africa
+Ethiopia,nan,2021.0,3.88,1416.2,0.39,0.83,1.22,Africa
+Ethiopia,nan,2022.0,4.29,1565.85,,,,Africa
+Ethiopia,nan,2023.0,4.41,1609.65,,,,Africa
+Ethiopia,nan,2024.0,4.78,1744.7,,,,Africa
+Fiji,nan,2017.0,3.2,1168.0,,,,Oceania
+Fiji,nan,2018.0,3.26,1189.9,,,,Oceania
+Fiji,nan,2019.0,3.41,1244.65,,,,Oceania
+Fiji,nan,2020.0,3.48,1270.2,,,,Oceania
+Fiji,nan,2021.0,3.81,1390.65,0.99,0.68,1.67,Oceania
+Fiji,nan,2022.0,4.18,1525.6999999999998,,,,Oceania
+Fiji,nan,2023.0,4.58,1671.7,,,,Oceania
+Fiji,nan,2024.0,4.82,1759.3000000000002,,,,Oceania
+Finland,nan,2017.0,2.53,923.45,,,,Europe
+Finland,nan,2018.0,2.61,952.65,,,,Europe
+Finland,nan,2019.0,2.72,992.8,,,,Europe
+Finland,nan,2020.0,2.81,1025.65,,,,Europe
+Finland,nan,2021.0,2.87,1047.55,0.89,0.61,1.5,Europe
+Finland,nan,2022.0,3.25,1186.25,,,,Europe
+Finland,nan,2023.0,3.52,1284.8,,,,Europe
+Finland,nan,2024.0,3.57,1303.05,,,,Europe
+France,nan,2017.0,2.58,941.7,,,,Europe
+France,nan,2018.0,2.65,967.25,,,,Europe
+France,nan,2019.0,2.83,1032.95,,,,Europe
+France,nan,2020.0,2.94,1073.1,,,,Europe
+France,nan,2021.0,2.96,1080.4,0.92,0.86,1.78,Europe
+France,nan,2022.0,3.32,1211.8,,,,Europe
+France,nan,2023.0,3.67,1339.55,,,,Europe
+France,nan,2024.0,3.75,1368.75,,,,Europe
+Gabon,nan,2017.0,3.24,1182.6,,,,Africa
+Gabon,nan,2018.0,3.31,1208.15,,,,Africa
+Gabon,nan,2019.0,3.44,1255.6,,,,Africa
+Gabon,nan,2020.0,3.6,1314.0,,,,Africa
+Gabon,nan,2021.0,3.81,1390.65,1.09,0.47,1.56,Africa
+Gabon,nan,2022.0,4.18,1525.6999999999998,,,,Africa
+Gabon,nan,2023.0,4.45,1624.25,,,,Africa
+Gabon,nan,2024.0,4.64,1693.6,,,,Africa
+Gambia,nan,2017.0,2.69,981.85,,,,Africa
+Gambia,nan,2018.0,2.86,1043.9,,,,Africa
+Gambia,nan,2019.0,2.98,1087.7,,,,Africa
+Gambia,nan,2020.0,3.18,1160.7,,,,Africa
+Gambia,nan,2021.0,3.45,1259.25,0.38,0.47,0.85,Africa
+Gambia,nan,2022.0,3.81,1390.65,,,,Africa
+Gambia,nan,2023.0,4.13,1507.45,,,,Africa
+Gambia,nan,2024.0,4.43,1616.9499999999998,,,,Africa
+Germany,nan,2017.0,2.64,963.6,,,,Europe
+Germany,nan,2018.0,2.76,1007.4,,,,Europe
+Germany,nan,2019.0,2.87,1047.55,,,,Europe
+Germany,nan,2020.0,2.97,1084.0500000000002,,,,Europe
+Germany,nan,2021.0,3.1,1131.5,0.86,0.89,1.75,Europe
+Germany,nan,2022.0,3.54,1292.1,,,,Europe
+Germany,nan,2023.0,3.89,1419.85,,,,Europe
+Germany,nan,2024.0,4.0,1460.0,,,,Europe
+Ghana,nan,2017.0,3.54,1292.1,,,,Africa
+Ghana,nan,2018.0,3.51,1281.15,,,,Africa
+Ghana,nan,2019.0,3.48,1270.2,,,,Africa
+Ghana,nan,2020.0,3.46,1262.9,,,,Africa
+Ghana,nan,2021.0,3.5,1277.5,0.46,0.25,0.71,Africa
+Ghana,nan,2022.0,3.83,1397.95,,,,Africa
+Ghana,nan,2023.0,4.29,1565.85,,,,Africa
+Ghana,nan,2024.0,4.49,1638.85,,,,Africa
+Greece,nan,2017.0,2.93,1069.45,,,,Europe
+Greece,nan,2018.0,2.99,1091.35,,,,Europe
+Greece,nan,2019.0,3.1,1131.5,,,,Europe
+Greece,nan,2020.0,3.13,1142.45,,,,Europe
+Greece,nan,2021.0,3.25,1186.25,0.8,0.66,1.46,Europe
+Greece,nan,2022.0,3.73,1361.45,,,,Europe
+Greece,nan,2023.0,4.16,1518.4,,,,Europe
+Greece,nan,2024.0,4.31,1573.15,,,,Europe
+Grenada,nan,2017.0,4.43,1616.9499999999998,,,,North America
+Grenada,nan,2018.0,4.5,1642.5,,,,North America
+Grenada,nan,2019.0,4.44,1620.6,,,,North America
+Grenada,nan,2020.0,4.5,1642.5,,,,North America
+Grenada,nan,2021.0,4.59,1675.35,1.29,1.07,2.3600000000000003,North America
+Grenada,nan,2022.0,5.11,1865.15,,,,North America
+Grenada,nan,2023.0,5.58,2036.7,,,,North America
+Grenada,nan,2024.0,5.83,2127.95,,,,North America
+Guatemala,nan,2017.0,2.88,1051.2,,,,North America
+Guatemala,nan,2018.0,3.12,1138.8,,,,North America
+Guatemala,nan,2019.0,3.45,1259.25,,,,North America
+Guatemala,nan,2020.0,3.74,1365.1,,,,North America
+Guatemala,nan,2021.0,4.01,1463.65,0.64,0.47,1.11,North America
+Guatemala,nan,2022.0,4.43,1616.9499999999998,,,,North America
+Guatemala,nan,2023.0,4.78,1744.7,,,,North America
+Guatemala,nan,2024.0,5.03,1835.95,,,,North America
+Guinea,nan,2017.0,2.59,945.35,,,,Africa
+Guinea,nan,2018.0,2.84,1036.6,,,,Africa
+Guinea,nan,2019.0,3.05,1113.25,,,,Africa
+Guinea,nan,2020.0,3.35,1222.75,,,,Africa
+Guinea,nan,2021.0,3.72,1357.8000000000002,0.48,0.44,0.92,Africa
+Guinea,nan,2022.0,4.14,1511.1,,,,Africa
+Guinea,nan,2023.0,4.65,1697.2500000000002,,,,Africa
+Guinea,nan,2024.0,5.1,1861.5,,,,Africa
+Guinea-Bissau,nan,2017.0,3.01,1098.65,,,,Africa
+Guinea-Bissau,nan,2018.0,3.04,1109.6,,,,Africa
+Guinea-Bissau,nan,2019.0,3.14,1146.1,,,,Africa
+Guinea-Bissau,nan,2020.0,3.24,1182.6,,,,Africa
+Guinea-Bissau,nan,2021.0,3.45,1259.25,0.85,0.45,1.3,Africa
+Guinea-Bissau,nan,2022.0,3.74,1365.1,,,,Africa
+Guinea-Bissau,nan,2023.0,3.98,1452.7,,,,Africa
+Guinea-Bissau,nan,2024.0,4.09,1492.85,,,,Africa
+Guyana,nan,2017.0,4.62,1686.3,,,,South America
+Guyana,nan,2018.0,4.79,1748.35,,,,South America
+Guyana,nan,2019.0,5.06,1846.9,,,,South America
+Guyana,nan,2020.0,5.41,1974.65,,,,South America
+Guyana,nan,2021.0,5.9,2153.5,,,,South America
+Guyana,nan,2022.0,6.37,2325.05,,,,South America
+Guyana,nan,2023.0,6.64,2423.6,,,,South America
+Guyana,nan,2024.0,6.83,2492.95,,,,South America
+Haiti,nan,2017.0,3.93,1434.45,,,,North America
+Haiti,nan,2018.0,4.05,1478.25,,,,North America
+Haiti,nan,2019.0,4.28,1562.2,,,,North America
+Haiti,nan,2020.0,4.57,1668.0500000000002,,,,North America
+Haiti,nan,2021.0,4.88,1781.2,,,,North America
+Haiti,nan,2022.0,5.3,1934.5,,,,North America
+Haiti,nan,2023.0,5.53,2018.45,,,,North America
+Haiti,nan,2024.0,6.21,2266.65,,,,North America
+Honduras,nan,2017.0,3.69,1346.85,,,,North America
+Honduras,nan,2018.0,3.66,1335.9,,,,North America
+Honduras,nan,2019.0,3.64,1328.6,,,,North America
+Honduras,nan,2020.0,3.76,1372.4,,,,North America
+Honduras,nan,2021.0,3.81,1390.65,0.77,0.79,1.56,North America
+Honduras,nan,2022.0,4.28,1562.2,,,,North America
+Honduras,nan,2023.0,4.64,1693.6,,,,North America
+Honduras,nan,2024.0,4.75,1733.75,,,,North America
+Hungary,nan,2017.0,3.36,1226.4,,,,Europe
+Hungary,nan,2018.0,3.45,1259.25,,,,Europe
+Hungary,nan,2019.0,3.6,1314.0,,,,Europe
+Hungary,nan,2020.0,3.69,1346.85,,,,Europe
+Hungary,nan,2021.0,3.68,1343.2,0.98,0.82,1.7999999999999998,Europe
+Hungary,nan,2022.0,4.46,1627.9,,,,Europe
+Hungary,nan,2023.0,5.08,1854.2,,,,Europe
+Hungary,nan,2024.0,5.08,1854.2,,,,Europe
+Iceland,nan,2017.0,2.37,865.0500000000001,,,,Europe
+Iceland,nan,2018.0,2.41,879.6500000000001,,,,Europe
+Iceland,nan,2019.0,2.52,919.8,,,,Europe
+Iceland,nan,2020.0,2.69,981.85,,,,Europe
+Iceland,nan,2021.0,2.77,1011.05,0.79,0.54,1.33,Europe
+Iceland,nan,2022.0,3.0,1095.0,,,,Europe
+Iceland,nan,2023.0,3.21,1171.65,,,,Europe
+Iceland,nan,2024.0,3.29,1200.85,,,,Europe
+India,nan,2017.0,2.77,1011.05,,,,Asia
+India,nan,2018.0,2.86,1043.9,,,,Asia
+India,nan,2019.0,3.01,1098.65,,,,Asia
+India,nan,2020.0,3.23,1178.95,,,,Asia
+India,nan,2021.0,3.4,1241.0,0.7,0.58,1.2799999999999998,Asia
+India,nan,2022.0,3.67,1339.55,,,,Asia
+India,nan,2023.0,3.86,1408.9,,,,Asia
+India,nan,2024.0,4.07,1485.5500000000002,,,,Asia
+Indonesia,nan,2017.0,3.61,1317.65,,,,Asia
+Indonesia,nan,2018.0,3.68,1343.2,,,,Asia
+Indonesia,nan,2019.0,3.68,1343.2,,,,Asia
+Indonesia,nan,2020.0,3.86,1408.9,,,,Asia
+Indonesia,nan,2021.0,4.0,1460.0,0.73,0.86,1.59,Asia
+Indonesia,nan,2022.0,4.39,1602.35,,,,Asia
+Indonesia,nan,2023.0,4.63,1689.95,,,,Asia
+Indonesia,nan,2024.0,4.75,1733.75,,,,Asia
+Iran (Islamic Republic of),nan,2017.0,3.01,1098.65,,,,
+Iran (Islamic Republic of),nan,2018.0,3.11,1135.15,,,,
+Iran (Islamic Republic of),nan,2019.0,3.35,1222.75,,,,
+Iran (Islamic Republic of),nan,2020.0,3.15,1149.75,,,,
+Iran (Islamic Republic of),nan,2021.0,3.37,1230.05,,,,
+Iran (Islamic Republic of),nan,2022.0,4.09,1492.85,,,,
+Iran (Islamic Republic of),nan,2023.0,4.46,1627.9,,,,
+Iran (Islamic Republic of),nan,2024.0,4.39,1602.35,,,,
+Iraq,nan,2017.0,3.32,1211.8,,,,Asia
+Iraq,nan,2018.0,3.48,1270.2,,,,Asia
+Iraq,nan,2019.0,3.5,1277.5,,,,Asia
+Iraq,nan,2020.0,3.5,1277.5,,,,Asia
+Iraq,nan,2021.0,3.42,1248.3,0.53,0.54,1.07,Asia
+Iraq,nan,2022.0,3.76,1372.4,,,,Asia
+Iraq,nan,2023.0,3.97,1449.0500000000002,,,,Asia
+Iraq,nan,2024.0,4.1,1496.4999999999998,,,,Asia
+Ireland,nan,2017.0,2.33,850.45,,,,Europe
+Ireland,nan,2018.0,2.27,828.55,,,,Europe
+Ireland,nan,2019.0,2.3,839.4999999999999,,,,Europe
+Ireland,nan,2020.0,2.22,810.3000000000001,,,,Europe
+Ireland,nan,2021.0,2.29,835.85,0.57,0.67,1.24,Europe
+Ireland,nan,2022.0,2.52,919.8,,,,Europe
+Ireland,nan,2023.0,2.74,1000.1,,,,Europe
+Ireland,nan,2024.0,2.83,1032.95,,,,Europe
+Israel,nan,2017.0,2.51,916.15,,,,Asia
+Israel,nan,2018.0,2.58,941.7,,,,Asia
+Israel,nan,2019.0,2.6,949.0,,,,Asia
+Israel,nan,2020.0,2.61,952.65,,,,Asia
+Israel,nan,2021.0,2.75,1003.75,0.56,0.71,1.27,Asia
+Israel,nan,2022.0,3.13,1142.45,,,,Asia
+Israel,nan,2023.0,3.23,1178.95,,,,Asia
+Israel,nan,2024.0,3.41,1244.65,,,,Asia
+Italy,nan,2017.0,2.74,1000.1,,,,Europe
+Italy,nan,2018.0,2.83,1032.95,,,,Europe
+Italy,nan,2019.0,3.01,1098.65,,,,Europe
+Italy,nan,2020.0,3.09,1127.85,,,,Europe
+Italy,nan,2021.0,3.17,1157.05,0.8,0.93,1.73,Europe
+Italy,nan,2022.0,3.6,1314.0,,,,Europe
+Italy,nan,2023.0,3.96,1445.4,,,,Europe
+Italy,nan,2024.0,4.14,1511.1,,,,Europe
+Jamaica,nan,2017.0,4.88,1781.2,,,,North America
+Jamaica,nan,2018.0,4.78,1744.7,,,,North America
+Jamaica,nan,2019.0,4.83,1762.95,,,,North America
+Jamaica,nan,2020.0,4.9,1788.5000000000002,,,,North America
+Jamaica,nan,2021.0,4.9,1788.5000000000002,1.69,1.24,2.93,North America
+Jamaica,nan,2022.0,5.41,1974.65,,,,North America
+Jamaica,nan,2023.0,5.83,2127.95,,,,North America
+Jamaica,nan,2024.0,6.02,2197.3,,,,North America
+Japan,nan,2017.0,5.48,2000.2,,,,Asia
+Japan,nan,2018.0,5.65,2062.25,,,,Asia
+Japan,nan,2019.0,5.57,2033.05,,,,Asia
+Japan,nan,2020.0,5.8,2117.0,,,,Asia
+Japan,nan,2021.0,5.98,2182.7000000000003,1.57,1.3,2.87,Asia
+Japan,nan,2022.0,6.66,2430.9,,,,Asia
+Japan,nan,2023.0,7.29,2660.85,,,,Asia
+Japan,nan,2024.0,7.62,2781.3,,,,Asia
+Jordan,nan,2017.0,2.88,1051.2,,,,Asia
+Jordan,nan,2018.0,2.9,1058.5,,,,Asia
+Jordan,nan,2019.0,2.94,1073.1,,,,Asia
+Jordan,nan,2020.0,3.02,1102.3,,,,Asia
+Jordan,nan,2021.0,2.99,1091.35,0.55,0.58,1.13,Asia
+Jordan,nan,2022.0,3.2,1168.0,,,,Asia
+Jordan,nan,2023.0,3.28,1197.1999999999998,,,,Asia
+Jordan,nan,2024.0,3.37,1230.05,,,,Asia
+Kazakhstan,nan,2017.0,2.12,773.8000000000001,,,,Asia
+Kazakhstan,nan,2018.0,2.13,777.4499999999999,,,,Asia
+Kazakhstan,nan,2019.0,2.28,832.1999999999999,,,,Asia
+Kazakhstan,nan,2020.0,2.43,886.95,,,,Asia
+Kazakhstan,nan,2021.0,2.59,945.35,0.3,0.64,0.94,Asia
+Kazakhstan,nan,2022.0,2.88,1051.2,,,,Asia
+Kazakhstan,nan,2023.0,3.02,1102.3,,,,Asia
+Kazakhstan,nan,2024.0,3.06,1116.9,,,,Asia
+Kenya,nan,2017.0,2.56,934.4,,,,Africa
+Kenya,nan,2018.0,2.62,956.3,,,,Africa
+Kenya,nan,2019.0,2.83,1032.95,,,,Africa
+Kenya,nan,2020.0,3.09,1127.85,,,,Africa
+Kenya,nan,2021.0,3.42,1248.3,0.38,0.34,0.72,Africa
+Kenya,nan,2022.0,3.86,1408.9,,,,Africa
+Kenya,nan,2023.0,4.1,1496.4999999999998,,,,Africa
+Kenya,nan,2024.0,4.26,1554.9,,,,Africa
+Kuwait,nan,2017.0,2.13,777.4499999999999,,,,Asia
+Kuwait,nan,2018.0,2.18,795.7,,,,Asia
+Kuwait,nan,2019.0,2.19,799.35,,,,Asia
+Kuwait,nan,2020.0,2.22,810.3000000000001,,,,Asia
+Kuwait,nan,2021.0,2.46,897.9,0.87,0.58,1.45,Asia
+Kuwait,nan,2022.0,2.74,1000.1,,,,Asia
+Kuwait,nan,2023.0,2.93,1069.45,,,,Asia
+Kuwait,nan,2024.0,3.09,1127.85,,,,Asia
+Kyrgyzstan,nan,2017.0,3.23,1178.95,,,,Asia
+Kyrgyzstan,nan,2018.0,2.98,1087.7,,,,Asia
+Kyrgyzstan,nan,2019.0,2.94,1073.1,,,,Asia
+Kyrgyzstan,nan,2020.0,3.21,1171.65,,,,Asia
+Kyrgyzstan,nan,2021.0,3.36,1226.4,0.48,0.9,1.38,Asia
+Kyrgyzstan,nan,2022.0,3.7,1350.5,,,,Asia
+Kyrgyzstan,nan,2023.0,3.77,1376.05,,,,Asia
+Kyrgyzstan,nan,2024.0,3.76,1372.4,,,,Asia
+Lao People's Democratic Republic,nan,2017.0,3.74,1365.1,,,,
+Lao People's Democratic Republic,nan,2018.0,3.77,1376.05,,,,
+Lao People's Democratic Republic,nan,2019.0,3.91,1427.15,,,,
+Lao People's Democratic Republic,nan,2020.0,4.22,1540.3,,,,
+Lao People's Democratic Republic,nan,2021.0,4.33,1580.45,0.73,1.02,1.75,
+Lao People's Democratic Republic,nan,2022.0,4.6,1678.9999999999998,,,,
+Lao People's Democratic Republic,nan,2023.0,5.07,1850.55,,,,
+Lao People's Democratic Republic,nan,2024.0,5.19,1894.35,,,,
+Latvia,nan,2017.0,3.04,1109.6,,,,Europe
+Latvia,nan,2018.0,3.03,1105.9499999999998,,,,Europe
+Latvia,nan,2019.0,3.19,1164.35,,,,Europe
+Latvia,nan,2020.0,3.28,1197.1999999999998,,,,Europe
+Latvia,nan,2021.0,3.55,1295.75,0.85,0.81,1.66,Europe
+Latvia,nan,2022.0,4.13,1507.45,,,,Europe
+Latvia,nan,2023.0,4.51,1646.15,,,,Europe
+Latvia,nan,2024.0,4.72,1722.8,,,,Europe
+Lebanon,nan,2017.0,1.71,624.15,,,,Asia
+Lebanon,nan,2018.0,1.86,678.9000000000001,,,,Asia
+Lebanon,nan,2019.0,1.88,686.1999999999999,,,,Asia
+Lebanon,nan,2020.0,3.15,1149.75,,,,Asia
+Lebanon,nan,2021.0,3.71,1354.15,0.41,0.74,1.15,Asia
+Lebanon,nan,2022.0,5.58,2036.7,,,,Asia
+Lebanon,nan,2023.0,6.46,2357.9,,,,Asia
+Lebanon,nan,2024.0,6.25,2281.25,,,,Asia
+Lesotho,nan,2017.0,3.59,1310.35,,,,Africa
+Lesotho,nan,2018.0,3.63,1324.95,,,,Africa
+Lesotho,nan,2019.0,3.74,1365.1,,,,Africa
+Lesotho,nan,2020.0,4.0,1460.0,,,,Africa
+Lesotho,nan,2021.0,4.31,1573.15,0.96,0.64,1.6,Africa
+Lesotho,nan,2022.0,4.68,1708.1999999999998,,,,Africa
+Lesotho,nan,2023.0,4.96,1810.4,,,,Africa
+Lesotho,nan,2024.0,5.24,1912.6,,,,Africa
+Liberia,nan,2017.0,3.24,1182.6,,,,Africa
+Liberia,nan,2018.0,3.3,1204.5,,,,Africa
+Liberia,nan,2019.0,3.51,1281.15,,,,Africa
+Liberia,nan,2020.0,3.78,1379.6999999999998,,,,Africa
+Liberia,nan,2021.0,3.67,1339.55,1.04,0.4,1.44,Africa
+Liberia,nan,2022.0,3.94,1438.1,,,,Africa
+Liberia,nan,2023.0,4.17,1522.05,,,,Africa
+Liberia,nan,2024.0,4.52,1649.8,,,,Africa
+Lithuania,nan,2017.0,2.85,1040.25,,,,Europe
+Lithuania,nan,2018.0,2.87,1047.55,,,,Europe
+Lithuania,nan,2019.0,3.04,1109.6,,,,Europe
+Lithuania,nan,2020.0,3.07,1120.55,,,,Europe
+Lithuania,nan,2021.0,3.12,1138.8,0.88,0.61,1.49,Europe
+Lithuania,nan,2022.0,3.66,1335.9,,,,Europe
+Lithuania,nan,2023.0,3.97,1449.0500000000002,,,,Europe
+Lithuania,nan,2024.0,4.03,1470.95,,,,Europe
+Luxembourg,nan,2017.0,2.46,897.9,,,,Europe
+Luxembourg,nan,2018.0,2.59,945.35,,,,Europe
+Luxembourg,nan,2019.0,2.62,956.3,,,,Europe
+Luxembourg,nan,2020.0,2.62,956.3,,,,Europe
+Luxembourg,nan,2021.0,2.65,967.25,0.72,0.76,1.48,Europe
+Luxembourg,nan,2022.0,2.95,1076.75,,,,Europe
+Luxembourg,nan,2023.0,3.27,1193.55,,,,Europe
+Luxembourg,nan,2024.0,3.37,1230.05,,,,Europe
+Madagascar,nan,2017.0,3.08,1124.2,,,,Africa
+Madagascar,nan,2018.0,3.18,1160.7,,,,Africa
+Madagascar,nan,2019.0,3.21,1171.65,,,,Africa
+Madagascar,nan,2020.0,3.2,1168.0,,,,Africa
+Madagascar,nan,2021.0,3.34,1219.1,0.41,0.43,0.84,Africa
+Madagascar,nan,2022.0,3.65,1332.25,,,,Africa
+Madagascar,nan,2023.0,3.87,1412.55,,,,Africa
+Madagascar,nan,2024.0,3.96,1445.4,,,,Africa
+Malawi,nan,2017.0,2.38,868.6999999999999,,,,Africa
+Malawi,nan,2018.0,2.52,919.8,,,,Africa
+Malawi,nan,2019.0,2.77,1011.05,,,,Africa
+Malawi,nan,2020.0,3.09,1127.85,,,,Africa
+Malawi,nan,2021.0,3.43,1251.95,0.42,0.37,0.79,Africa
+Malawi,nan,2022.0,3.88,1416.2,,,,Africa
+Malawi,nan,2023.0,4.29,1565.85,,,,Africa
+Malawi,nan,2024.0,4.64,1693.6,,,,Africa
+Malaysia,nan,2017.0,3.1,1131.5,,,,Asia
+Malaysia,nan,2018.0,3.2,1168.0,,,,Asia
+Malaysia,nan,2019.0,3.3,1204.5,,,,Asia
+Malaysia,nan,2020.0,3.43,1251.95,,,,Asia
+Malaysia,nan,2021.0,3.52,1284.8,0.73,0.88,1.61,Asia
+Malaysia,nan,2022.0,3.89,1419.85,,,,Asia
+Malaysia,nan,2023.0,4.15,1514.7500000000002,,,,Asia
+Malaysia,nan,2024.0,4.27,1558.55,,,,Asia
+Maldives,nan,2017.0,3.36,1226.4,,,,Asia
+Maldives,nan,2018.0,3.34,1219.1,,,,Asia
+Maldives,nan,2019.0,3.28,1197.1999999999998,,,,Asia
+Maldives,nan,2020.0,3.33,1215.45,,,,Asia
+Maldives,nan,2021.0,3.39,1237.35,1.08,0.85,1.93,Asia
+Maldives,nan,2022.0,3.74,1365.1,,,,Asia
+Maldives,nan,2023.0,4.01,1463.65,,,,Asia
+Maldives,nan,2024.0,4.3,1569.5,,,,Asia
+Mali,nan,2017.0,2.97,1084.0500000000002,,,,Africa
+Mali,nan,2018.0,2.96,1080.4,,,,Africa
+Mali,nan,2019.0,2.97,1084.0500000000002,,,,Africa
+Mali,nan,2020.0,3.04,1109.6,,,,Africa
+Mali,nan,2021.0,3.16,1153.4,0.47,0.35,0.82,Africa
+Mali,nan,2022.0,3.56,1299.4,,,,Africa
+Mali,nan,2023.0,3.72,1357.8000000000002,,,,Africa
+Mali,nan,2024.0,3.86,1408.9,,,,Africa
+Malta,nan,2017.0,3.35,1222.75,,,,Europe
+Malta,nan,2018.0,3.49,1273.85,,,,Europe
+Malta,nan,2019.0,3.75,1368.75,,,,Europe
+Malta,nan,2020.0,3.74,1365.1,,,,Europe
+Malta,nan,2021.0,3.79,1383.35,0.79,1.06,1.85,Europe
+Malta,nan,2022.0,4.28,1562.2,,,,Europe
+Malta,nan,2023.0,4.66,1700.9,,,,Europe
+Malta,nan,2024.0,4.89,1784.85,,,,Europe
+Mauritania,nan,2017.0,3.86,1408.9,,,,Africa
+Mauritania,nan,2018.0,3.92,1430.8,,,,Africa
+Mauritania,nan,2019.0,4.02,1467.3,,,,Africa
+Mauritania,nan,2020.0,4.13,1507.45,,,,Africa
+Mauritania,nan,2021.0,4.43,1616.9499999999998,0.9,0.92,1.82,Africa
+Mauritania,nan,2022.0,5.04,1839.6,,,,Africa
+Mauritania,nan,2023.0,5.28,1927.2,,,,Africa
+Mauritania,nan,2024.0,5.4,1971.0,,,,Africa
+Mauritius,nan,2017.0,3.38,1233.7,,,,Africa
+Mauritius,nan,2018.0,3.41,1244.65,,,,Africa
+Mauritius,nan,2019.0,3.46,1262.9,,,,Africa
+Mauritius,nan,2020.0,3.64,1328.6,,,,Africa
+Mauritius,nan,2021.0,3.77,1376.05,1.26,0.49,1.75,Africa
+Mauritius,nan,2022.0,4.21,1536.65,,,,Africa
+Mauritius,nan,2023.0,4.42,1613.3,,,,Africa
+Mauritius,nan,2024.0,4.72,1722.8,,,,Africa
+Mexico,nan,2017.0,2.9,1058.5,,,,North America
+Mexico,nan,2018.0,2.97,1084.0500000000002,,,,North America
+Mexico,nan,2019.0,2.98,1087.7,,,,North America
+Mexico,nan,2020.0,3.07,1120.55,,,,North America
+Mexico,nan,2021.0,3.27,1193.55,0.79,0.57,1.36,North America
+Mexico,nan,2022.0,3.85,1405.25,,,,North America
+Mexico,nan,2023.0,4.2,1533.0,,,,North America
+Mexico,nan,2024.0,4.41,1609.65,,,,North America
+Mongolia,nan,2017.0,4.11,1500.15,,,,Asia
+Mongolia,nan,2018.0,4.26,1554.9,,,,Asia
+Mongolia,nan,2019.0,4.56,1664.4,,,,Asia
+Mongolia,nan,2020.0,5.01,1828.65,,,,Asia
+Mongolia,nan,2021.0,5.55,2025.75,0.9,2.5,3.4,Asia
+Mongolia,nan,2022.0,6.17,2252.05,,,,Asia
+Mongolia,nan,2023.0,6.74,2460.1,,,,Asia
+Mongolia,nan,2024.0,7.02,2562.3,,,,Asia
+Montenegro,nan,2017.0,3.21,1171.65,,,,Europe
+Montenegro,nan,2018.0,3.24,1182.6,,,,Europe
+Montenegro,nan,2019.0,3.49,1273.85,,,,Europe
+Montenegro,nan,2020.0,3.43,1251.95,,,,Europe
+Montenegro,nan,2021.0,3.63,1324.95,0.88,0.69,1.5699999999999998,Europe
+Montenegro,nan,2022.0,4.4,1606.0000000000002,,,,Europe
+Montenegro,nan,2023.0,4.74,1730.1,,,,Europe
+Montenegro,nan,2024.0,4.78,1744.7,,,,Europe
+Morocco,nan,2017.0,2.63,959.95,,,,Africa
+Morocco,nan,2018.0,2.5,912.5,,,,Africa
+Morocco,nan,2019.0,2.47,901.55,,,,Africa
+Morocco,nan,2020.0,2.47,901.55,,,,Africa
+Morocco,nan,2021.0,2.76,1007.4,0.52,0.45,0.97,Africa
+Morocco,nan,2022.0,3.11,1135.15,,,,Africa
+Morocco,nan,2023.0,3.45,1259.25,,,,Africa
+Morocco,nan,2024.0,3.54,1292.1,,,,Africa
+Mozambique,nan,2017.0,2.74,1000.1,,,,Africa
+Mozambique,nan,2018.0,2.71,989.15,,,,Africa
+Mozambique,nan,2019.0,2.77,1011.05,,,,Africa
+Mozambique,nan,2020.0,2.93,1069.45,,,,Africa
+Mozambique,nan,2021.0,3.23,1178.95,0.54,0.22,0.76,Africa
+Mozambique,nan,2022.0,3.57,1303.05,,,,Africa
+Mozambique,nan,2023.0,3.81,1390.65,,,,Africa
+Mozambique,nan,2024.0,4.14,1511.1,,,,Africa
+Myanmar,nan,2017.0,3.56,1299.4,,,,Asia
+Myanmar,nan,2018.0,3.7,1350.5,,,,Asia
+Myanmar,nan,2019.0,3.93,1434.45,,,,Asia
+Myanmar,nan,2020.0,3.96,1445.4,,,,Asia
+Myanmar,nan,2021.0,3.64,1328.6,,,,Asia
+Myanmar,nan,2022.0,3.88,1416.2,,,,Asia
+Myanmar,nan,2023.0,3.72,1357.8000000000002,,,,Asia
+Myanmar,nan,2024.0,3.49,1273.85,,,,Asia
+Namibia,nan,2017.0,3.26,1189.9,,,,Africa
+Namibia,nan,2018.0,3.26,1189.9,,,,Africa
+Namibia,nan,2019.0,3.33,1215.45,,,,Africa
+Namibia,nan,2020.0,3.51,1281.15,,,,Africa
+Namibia,nan,2021.0,3.75,1368.75,0.95,0.66,1.61,Africa
+Namibia,nan,2022.0,4.11,1500.15,,,,Africa
+Namibia,nan,2023.0,4.5,1642.5,,,,Africa
+Namibia,nan,2024.0,4.67,1704.55,,,,Africa
+Nepal,nan,2017.0,3.35,1222.75,,,,Asia
+Nepal,nan,2018.0,3.32,1211.8,,,,Asia
+Nepal,nan,2019.0,3.36,1226.4,,,,Asia
+Nepal,nan,2020.0,3.51,1281.15,,,,Asia
+Nepal,nan,2021.0,3.62,1321.3,0.78,0.71,1.49,Asia
+Nepal,nan,2022.0,3.89,1419.85,,,,Asia
+Nepal,nan,2023.0,4.01,1463.65,,,,Asia
+Nepal,nan,2024.0,4.2,1533.0,,,,Asia
+Netherlands (Kingdom of the),nan,2017.0,2.21,806.65,,,,
+Netherlands (Kingdom of the),nan,2018.0,2.27,828.55,,,,
+Netherlands (Kingdom of the),nan,2019.0,2.39,872.35,,,,
+Netherlands (Kingdom of the),nan,2020.0,2.49,908.85,,,,
+Netherlands (Kingdom of the),nan,2021.0,2.54,927.1,0.59,0.69,1.2799999999999998,
+Netherlands (Kingdom of the),nan,2022.0,2.9,1058.5,,,,
+Netherlands (Kingdom of the),nan,2023.0,3.13,1142.45,,,,
+Netherlands (Kingdom of the),nan,2024.0,3.17,1157.05,,,,
+New Zealand,nan,2017.0,2.65,967.25,,,,Oceania
+New Zealand,nan,2018.0,2.57,938.05,,,,Oceania
+New Zealand,nan,2019.0,2.7,985.5,,,,Oceania
+New Zealand,nan,2020.0,2.83,1032.95,,,,Oceania
+New Zealand,nan,2021.0,2.86,1043.9,0.61,0.86,1.47,Oceania
+New Zealand,nan,2022.0,3.28,1197.1999999999998,,,,Oceania
+New Zealand,nan,2023.0,3.56,1299.4,,,,Oceania
+New Zealand,nan,2024.0,3.56,1299.4,,,,Oceania
+Nicaragua,nan,2017.0,3.72,1357.8000000000002,,,,North America
+Nicaragua,nan,2018.0,3.73,1361.45,,,,North America
+Nicaragua,nan,2019.0,3.78,1379.6999999999998,,,,North America
+Nicaragua,nan,2020.0,3.89,1419.85,,,,North America
+Nicaragua,nan,2021.0,4.06,1481.9,0.89,0.54,1.4300000000000002,North America
+Nicaragua,nan,2022.0,4.59,1675.35,,,,North America
+Nicaragua,nan,2023.0,4.9,1788.5000000000002,,,,North America
+Niger,nan,2017.0,3.25,1186.25,,,,Africa
+Niger,nan,2018.0,3.27,1193.55,,,,Africa
+Niger,nan,2019.0,3.34,1219.1,,,,Africa
+Niger,nan,2020.0,3.6,1314.0,,,,Africa
+Niger,nan,2021.0,4.02,1467.3,0.53,0.81,1.34,Africa
+Niger,nan,2022.0,4.48,1635.2,,,,Africa
+Niger,nan,2023.0,4.68,1708.1999999999998,,,,Africa
+Niger,nan,2024.0,4.98,1817.7,,,,Africa
+Nigeria,nan,2017.0,2.78,1014.7,,,,Africa
+Nigeria,nan,2018.0,2.96,1080.4,,,,Africa
+Nigeria,nan,2019.0,3.16,1153.4,,,,Africa
+Nigeria,nan,2020.0,3.41,1244.65,,,,Africa
+Nigeria,nan,2021.0,3.76,1372.4,0.8,0.37,1.17,Africa
+Nigeria,nan,2022.0,4.12,1503.8,,,,Africa
+Nigeria,nan,2023.0,4.39,1602.35,,,,Africa
+Nigeria,nan,2024.0,4.72,1722.8,,,,Africa
+North Macedonia,nan,2017.0,3.29,1200.85,,,,Europe
+North Macedonia,nan,2018.0,3.3,1204.5,,,,Europe
+North Macedonia,nan,2019.0,3.48,1270.2,,,,Europe
+North Macedonia,nan,2020.0,3.51,1281.15,,,,Europe
+North Macedonia,nan,2021.0,3.84,1401.6,0.77,0.78,1.55,Europe
+North Macedonia,nan,2022.0,4.47,1631.55,,,,Europe
+North Macedonia,nan,2023.0,4.74,1730.1,,,,Europe
+North Macedonia,nan,2024.0,4.85,1770.2499999999998,,,,Europe
+Norway,nan,2017.0,3.32,1211.8,,,,Europe
+Norway,nan,2018.0,3.43,1251.95,,,,Europe
+Norway,nan,2019.0,3.53,1288.4499999999998,,,,Europe
+Norway,nan,2020.0,3.61,1317.65,,,,Europe
+Norway,nan,2021.0,3.63,1324.95,0.93,0.78,1.71,Europe
+Norway,nan,2022.0,3.98,1452.7,,,,Europe
+Norway,nan,2023.0,4.33,1580.45,,,,Europe
+Norway,nan,2024.0,4.55,1660.75,,,,Europe
+Oman,nan,2017.0,2.29,835.85,,,,Asia
+Oman,nan,2018.0,2.39,872.35,,,,Asia
+Oman,nan,2019.0,2.49,908.85,,,,Asia
+Oman,nan,2020.0,2.48,905.2,,,,Asia
+Oman,nan,2021.0,2.45,894.2500000000001,0.44,0.41,0.85,Asia
+Oman,nan,2022.0,2.7,985.5,,,,Asia
+Oman,nan,2023.0,2.87,1047.55,,,,Asia
+Oman,nan,2024.0,3.03,1105.9499999999998,,,,Asia
+Pakistan,nan,2017.0,2.97,1084.0500000000002,,,,Asia
+Pakistan,nan,2018.0,2.91,1062.15,,,,Asia
+Pakistan,nan,2019.0,2.95,1076.75,,,,Asia
+Pakistan,nan,2020.0,3.18,1160.7,,,,Asia
+Pakistan,nan,2021.0,3.3,1204.5,0.39,0.77,1.16,Asia
+Pakistan,nan,2022.0,3.7,1350.5,,,,Asia
+Pakistan,nan,2023.0,4.08,1489.2,,,,Asia
+Pakistan,nan,2024.0,3.95,1441.75,,,,Asia
+Palestine,nan,2017.0,2.52,919.8,,,,Asia
+Palestine,nan,2018.0,2.65,967.25,,,,Asia
+Palestine,nan,2019.0,2.76,1007.4,,,,Asia
+Palestine,nan,2020.0,2.77,1011.05,,,,Asia
+Palestine,nan,2021.0,2.72,992.8,0.45,0.48,0.93,Asia
+Palestine,nan,2022.0,3.03,1105.9499999999998,,,,Asia
+Palestine,nan,2023.0,3.16,1153.4,,,,Asia
+Palestine,nan,2024.0,3.33,1215.45,,,,Asia
+Panama,nan,2017.0,4.19,1529.35,,,,North America
+Panama,nan,2018.0,3.88,1416.2,,,,North America
+Panama,nan,2019.0,3.78,1379.6999999999998,,,,North America
+Panama,nan,2020.0,3.65,1332.25,,,,North America
+Panama,nan,2021.0,3.63,1324.95,0.92,0.62,1.54,North America
+Panama,nan,2022.0,3.96,1445.4,,,,North America
+Panama,nan,2023.0,4.2,1533.0,,,,North America
+Panama,nan,2024.0,4.34,1584.1,,,,North America
+Paraguay,nan,2017.0,3.74,1365.1,,,,South America
+Paraguay,nan,2018.0,3.73,1361.45,,,,South America
+Paraguay,nan,2019.0,3.71,1354.15,,,,South America
+Paraguay,nan,2020.0,3.73,1361.45,,,,South America
+Paraguay,nan,2021.0,3.95,1441.75,0.97,0.7,1.67,South America
+Paraguay,nan,2022.0,4.47,1631.55,,,,South America
+Paraguay,nan,2023.0,4.71,1719.15,,,,South America
+Paraguay,nan,2024.0,5.04,1839.6,,,,South America
+Peru,nan,2017.0,3.25,1186.25,,,,South America
+Peru,nan,2018.0,3.19,1164.35,,,,South America
+Peru,nan,2019.0,3.24,1182.6,,,,South America
+Peru,nan,2020.0,3.34,1219.1,,,,South America
+Peru,nan,2021.0,3.5,1277.5,0.6,0.61,1.21,South America
+Peru,nan,2022.0,3.94,1438.1,,,,South America
+Peru,nan,2023.0,4.3,1569.5,,,,South America
+Peru,nan,2024.0,4.34,1584.1,,,,South America
+Philippines,nan,2017.0,3.26,1189.9,,,,Asia
+Philippines,nan,2018.0,3.4,1241.0,,,,Asia
+Philippines,nan,2019.0,3.47,1266.5500000000002,,,,Asia
+Philippines,nan,2020.0,3.55,1295.75,,,,Asia
+Philippines,nan,2021.0,3.73,1361.45,0.99,0.74,1.73,Asia
+Philippines,nan,2022.0,3.97,1449.0500000000002,,,,Asia
+Philippines,nan,2023.0,4.21,1536.65,,,,Asia
+Philippines,nan,2024.0,4.39,1602.35,,,,Asia
+Poland,nan,2017.0,2.95,1076.75,,,,Europe
+Poland,nan,2018.0,3.03,1105.9499999999998,,,,Europe
+Poland,nan,2019.0,3.25,1186.25,,,,Europe
+Poland,nan,2020.0,3.38,1233.7,,,,Europe
+Poland,nan,2021.0,3.35,1222.75,1.03,0.63,1.66,Europe
+Poland,nan,2022.0,3.8,1387.0,,,,Europe
+Poland,nan,2023.0,4.04,1474.6,,,,Europe
+Poland,nan,2024.0,4.14,1511.1,,,,Europe
+Portugal,nan,2017.0,2.64,963.6,,,,Europe
+Portugal,nan,2018.0,2.73,996.45,,,,Europe
+Portugal,nan,2019.0,2.85,1040.25,,,,Europe
+Portugal,nan,2020.0,2.87,1047.55,,,,Europe
+Portugal,nan,2021.0,2.99,1091.35,0.82,0.62,1.44,Europe
+Portugal,nan,2022.0,3.51,1281.15,,,,Europe
+Portugal,nan,2023.0,3.82,1394.3,,,,Europe
+Portugal,nan,2024.0,3.93,1434.45,,,,Europe
+Qatar,nan,2017.0,2.32,846.8,,,,Asia
+Qatar,nan,2018.0,2.43,886.95,,,,Asia
+Qatar,nan,2019.0,2.45,894.2500000000001,,,,Asia
+Qatar,nan,2020.0,2.44,890.6,,,,Asia
+Qatar,nan,2021.0,2.35,857.75,0.43,0.41,0.84,Asia
+Qatar,nan,2022.0,2.52,919.8,,,,Asia
+Qatar,nan,2023.0,2.58,941.7,,,,Asia
+Qatar,nan,2024.0,2.66,970.9,,,,Asia
+Republic of Korea,nan,2017.0,4.73,1726.45,,,,
+Republic of Korea,nan,2018.0,4.92,1795.8,,,,
+Republic of Korea,nan,2019.0,4.9,1788.5000000000002,,,,
+Republic of Korea,nan,2020.0,5.18,1890.7,,,,
+Republic of Korea,nan,2021.0,5.55,2025.75,1.62,1.39,3.01,
+Republic of Korea,nan,2022.0,6.05,2208.25,,,,
+Republic of Korea,nan,2023.0,6.39,2332.35,,,,
+Republic of Korea,nan,2024.0,6.68,2438.2,,,,
+Republic of Moldova,nan,2017.0,2.34,854.0999999999999,,,,
+Republic of Moldova,nan,2018.0,2.47,901.55,,,,
+Republic of Moldova,nan,2019.0,2.65,967.25,,,,
+Republic of Moldova,nan,2020.0,2.9,1058.5,,,,
+Republic of Moldova,nan,2021.0,3.08,1124.2,0.44,0.81,1.25,
+Republic of Moldova,nan,2022.0,3.42,1248.3,,,,
+Republic of Moldova,nan,2023.0,3.56,1299.4,,,,
+Republic of Moldova,nan,2024.0,3.69,1346.85,,,,
+Romania,nan,2017.0,2.79,1018.35,,,,Europe
+Romania,nan,2018.0,2.84,1036.6,,,,Europe
+Romania,nan,2019.0,3.03,1105.9499999999998,,,,Europe
+Romania,nan,2020.0,3.17,1157.05,,,,Europe
+Romania,nan,2021.0,3.22,1175.3000000000002,0.52,0.71,1.23,Europe
+Romania,nan,2022.0,3.57,1303.05,,,,Europe
+Romania,nan,2023.0,3.93,1434.45,,,,Europe
+Romania,nan,2024.0,4.39,1602.35,,,,Europe
+Russian Federation,nan,2017.0,2.25,821.25,,,,
+Russian Federation,nan,2018.0,2.28,832.1999999999999,,,,
+Russian Federation,nan,2019.0,2.45,894.2500000000001,,,,
+Russian Federation,nan,2020.0,2.57,938.05,,,,
+Russian Federation,nan,2021.0,2.77,1011.05,0.55,0.65,1.2000000000000002,
+Russian Federation,nan,2022.0,3.09,1127.85,,,,
+Russian Federation,nan,2023.0,3.17,1157.05,,,,
+Russian Federation,nan,2024.0,3.29,1200.85,,,,
+Rwanda,nan,2017.0,3.05,1113.25,,,,Africa
+Rwanda,nan,2018.0,2.89,1054.85,,,,Africa
+Rwanda,nan,2019.0,2.98,1087.7,,,,Africa
+Rwanda,nan,2020.0,3.3,1204.5,,,,Africa
+Rwanda,nan,2021.0,3.31,1208.15,0.33,0.41,0.74,Africa
+Rwanda,nan,2022.0,3.87,1412.55,,,,Africa
+Rwanda,nan,2023.0,4.59,1675.35,,,,Africa
+Rwanda,nan,2024.0,4.52,1649.8,,,,Africa
+Saint Kitts and Nevis,nan,2017.0,3.37,1230.05,,,,North America
+Saint Kitts and Nevis,nan,2018.0,3.51,1281.15,,,,North America
+Saint Kitts and Nevis,nan,2019.0,3.65,1332.25,,,,North America
+Saint Kitts and Nevis,nan,2020.0,3.81,1390.65,,,,North America
+Saint Kitts and Nevis,nan,2021.0,3.95,1441.75,1.16,0.9,2.06,North America
+Saint Kitts and Nevis,nan,2022.0,4.59,1675.35,,,,North America
+Saint Kitts and Nevis,nan,2023.0,4.84,1766.6,,,,North America
+Saint Kitts and Nevis,nan,2024.0,5.04,1839.6,,,,North America
+Saint Lucia,nan,2017.0,3.6,1314.0,,,,North America
+Saint Lucia,nan,2018.0,3.8,1387.0,,,,North America
+Saint Lucia,nan,2019.0,4.03,1470.95,,,,North America
+Saint Lucia,nan,2020.0,4.41,1609.65,,,,North America
+Saint Lucia,nan,2021.0,4.57,1668.0500000000002,1.28,0.6,1.88,North America
+Saint Lucia,nan,2022.0,4.9,1788.5000000000002,,,,North America
+Saint Lucia,nan,2023.0,5.22,1905.3,,,,North America
+Saint Lucia,nan,2024.0,5.16,1883.4,,,,North America
+Saint Vincent and the Grenadines,nan,2017.0,4.3,1569.5,,,,North America
+Saint Vincent and the Grenadines,nan,2018.0,4.44,1620.6,,,,North America
+Saint Vincent and the Grenadines,nan,2019.0,4.48,1635.2,,,,North America
+Saint Vincent and the Grenadines,nan,2020.0,4.65,1697.2500000000002,,,,North America
+Saint Vincent and the Grenadines,nan,2021.0,4.87,1777.55,1.53,0.72,2.25,North America
+Saint Vincent and the Grenadines,nan,2022.0,5.48,2000.2,,,,North America
+Saint Vincent and the Grenadines,nan,2023.0,6.03,2200.9500000000003,,,,North America
+Saint Vincent and the Grenadines,nan,2024.0,6.43,2346.95,,,,North America
+Sao Tome and Principe,nan,2017.0,2.31,843.15,,,,Africa
+Sao Tome and Principe,nan,2018.0,2.63,959.95,,,,Africa
+Sao Tome and Principe,nan,2019.0,2.98,1087.7,,,,Africa
+Sao Tome and Principe,nan,2020.0,3.29,1200.85,,,,Africa
+Sao Tome and Principe,nan,2021.0,3.8,1387.0,1.09,0.22,1.31,Africa
+Sao Tome and Principe,nan,2022.0,4.17,1522.05,,,,Africa
+Sao Tome and Principe,nan,2023.0,4.43,1616.9499999999998,,,,Africa
+Sao Tome and Principe,nan,2024.0,4.64,1693.6,,,,Africa
+Saudi Arabia,nan,2017.0,2.46,897.9,,,,Asia
+Saudi Arabia,nan,2018.0,2.46,897.9,,,,Asia
+Saudi Arabia,nan,2019.0,2.48,905.2,,,,Asia
+Saudi Arabia,nan,2020.0,2.43,886.95,,,,Asia
+Saudi Arabia,nan,2021.0,2.62,956.3,0.37,0.65,1.02,Asia
+Saudi Arabia,nan,2022.0,2.87,1047.55,,,,Asia
+Saudi Arabia,nan,2023.0,2.96,1080.4,,,,Asia
+Saudi Arabia,nan,2024.0,3.02,1102.3,,,,Asia
+Senegal,nan,2017.0,2.65,967.25,,,,Africa
+Senegal,nan,2018.0,2.72,992.8,,,,Africa
+Senegal,nan,2019.0,2.79,1018.35,,,,Africa
+Senegal,nan,2020.0,2.88,1051.2,,,,Africa
+Senegal,nan,2021.0,3.04,1109.6,0.63,0.3,0.93,Africa
+Senegal,nan,2022.0,3.44,1255.6,,,,Africa
+Senegal,nan,2023.0,3.63,1324.95,,,,Africa
+Senegal,nan,2024.0,3.73,1361.45,,,,Africa
+Serbia,nan,2017.0,3.56,1299.4,,,,Europe
+Serbia,nan,2018.0,3.64,1328.6,,,,Europe
+Serbia,nan,2019.0,3.84,1401.6,,,,Europe
+Serbia,nan,2020.0,3.86,1408.9,,,,Europe
+Serbia,nan,2021.0,4.01,1463.65,0.86,0.75,1.61,Europe
+Serbia,nan,2022.0,4.64,1693.6,,,,Europe
+Serbia,nan,2023.0,5.19,1894.35,,,,Europe
+Serbia,nan,2024.0,5.28,1927.2,,,,Europe
+Seychelles,nan,2017.0,3.53,1288.4499999999998,,,,Africa
+Seychelles,nan,2018.0,3.5,1277.5,,,,Africa
+Seychelles,nan,2019.0,3.53,1288.4499999999998,,,,Africa
+Seychelles,nan,2020.0,3.46,1262.9,,,,Africa
+Seychelles,nan,2021.0,3.79,1383.35,1.2,0.33,1.53,Africa
+Seychelles,nan,2022.0,4.05,1478.25,,,,Africa
+Seychelles,nan,2023.0,4.22,1540.3,,,,Africa
+Seychelles,nan,2024.0,4.31,1573.15,,,,Africa
+Sierra Leone,nan,2017.0,2.64,963.6,,,,Africa
+Sierra Leone,nan,2018.0,2.8,1022.0,,,,Africa
+Sierra Leone,nan,2019.0,2.76,1007.4,,,,Africa
+Sierra Leone,nan,2020.0,2.83,1032.95,,,,Africa
+Sierra Leone,nan,2021.0,3.08,1124.2,0.43,0.26,0.69,Africa
+Sierra Leone,nan,2022.0,3.39,1237.35,,,,Africa
+Sierra Leone,nan,2023.0,3.74,1365.1,,,,Africa
+Sierra Leone,nan,2024.0,3.84,1401.6,,,,Africa
+Singapore,nan,2017.0,2.78,1014.7,,,,Asia
+Singapore,nan,2018.0,2.86,1043.9,,,,Asia
+Singapore,nan,2019.0,2.92,1065.8,,,,Asia
+Singapore,nan,2020.0,3.0,1095.0,,,,Asia
+Singapore,nan,2021.0,3.09,1127.85,0.72,0.78,1.5,Asia
+Singapore,nan,2022.0,3.31,1208.15,,,,Asia
+Singapore,nan,2023.0,3.46,1262.9,,,,Asia
+Singapore,nan,2024.0,3.52,1284.8,,,,Asia
+Sint Maarten (Dutch part),nan,2017.0,4.43,1616.9499999999998,,,,
+Sint Maarten (Dutch part),nan,2018.0,4.58,1671.7,,,,
+Sint Maarten (Dutch part),nan,2019.0,4.67,1704.55,,,,
+Sint Maarten (Dutch part),nan,2020.0,4.78,1744.7,,,,
+Sint Maarten (Dutch part),nan,2021.0,4.82,1759.3000000000002,,,,
+Sint Maarten (Dutch part),nan,2022.0,4.93,1799.4499999999998,,,,
+Sint Maarten (Dutch part),nan,2023.0,5.06,1846.9,,,,
+Sint Maarten (Dutch part),nan,2024.0,5.17,1887.05,,,,
+Slovakia,nan,2017.0,2.46,897.9,,,,Europe
+Slovakia,nan,2018.0,2.53,923.45,,,,Europe
+Slovakia,nan,2019.0,2.69,981.85,,,,Europe
+Slovakia,nan,2020.0,2.89,1054.85,,,,Europe
+Slovakia,nan,2021.0,3.01,1098.65,0.93,0.65,1.58,Europe
+Slovakia,nan,2022.0,3.54,1292.1,,,,Europe
+Slovakia,nan,2023.0,4.14,1511.1,,,,Europe
+Slovakia,nan,2024.0,4.25,1551.25,,,,Europe
+Slovenia,nan,2017.0,2.6,949.0,,,,Europe
+Slovenia,nan,2018.0,2.7,985.5,,,,Europe
+Slovenia,nan,2019.0,2.85,1040.25,,,,Europe
+Slovenia,nan,2020.0,2.98,1087.7,,,,Europe
+Slovenia,nan,2021.0,3.01,1098.65,0.76,0.74,1.5,Europe
+Slovenia,nan,2022.0,3.42,1248.3,,,,Europe
+Slovenia,nan,2023.0,3.72,1357.8000000000002,,,,Europe
+Slovenia,nan,2024.0,3.81,1390.65,,,,Europe
+Somalia,nan,2017.0,3.61,1317.65,,,,Africa
+Somalia,nan,2018.0,3.88,1416.2,,,,Africa
+Somalia,nan,2019.0,3.98,1452.7,,,,Africa
+Somalia,nan,2020.0,3.93,1434.45,,,,Africa
+Somalia,nan,2021.0,4.08,1489.2,0.78,0.36,1.14,Africa
+Somalia,nan,2022.0,4.65,1697.2500000000002,,,,Africa
+Somalia,nan,2023.0,4.65,1697.2500000000002,,,,Africa
+Somalia,nan,2024.0,4.47,1631.55,,,,Africa
+South Africa,nan,2017.0,3.0,1095.0,,,,Africa
+South Africa,nan,2018.0,2.94,1073.1,,,,Africa
+South Africa,nan,2019.0,2.94,1073.1,,,,Africa
+South Africa,nan,2020.0,3.0,1095.0,,,,Africa
+South Africa,nan,2021.0,3.14,1146.1,0.63,0.61,1.24,Africa
+South Africa,nan,2022.0,3.46,1262.9,,,,Africa
+South Africa,nan,2023.0,3.76,1372.4,,,,Africa
+South Africa,nan,2024.0,3.89,1419.85,,,,Africa
+South Sudan,nan,2017.0,3.13,1142.45,,,,Africa
+South Sudan,nan,2018.0,3.11,1135.15,,,,Africa
+South Sudan,nan,2019.0,3.55,1295.75,,,,Africa
+South Sudan,nan,2020.0,3.41,1244.65,,,,Africa
+South Sudan,nan,2021.0,3.9,1423.5,0.69,0.4,1.09,Africa
+South Sudan,nan,2022.0,4.09,1492.85,,,,Africa
+South Sudan,nan,2023.0,5.33,1945.45,,,,Africa
+South Sudan,nan,2024.0,8.39,3062.3500000000004,,,,Africa
+Spain,nan,2017.0,2.53,923.45,,,,Europe
+Spain,nan,2018.0,2.57,938.05,,,,Europe
+Spain,nan,2019.0,2.7,985.5,,,,Europe
+Spain,nan,2020.0,2.75,1003.75,,,,Europe
+Spain,nan,2021.0,2.94,1073.1,0.8,0.84,1.64,Europe
+Spain,nan,2022.0,3.4,1241.0,,,,Europe
+Spain,nan,2023.0,3.83,1397.95,,,,Europe
+Spain,nan,2024.0,3.98,1452.7,,,,Europe
+Sri Lanka,nan,2017.0,3.86,1408.9,,,,Asia
+Sri Lanka,nan,2018.0,3.81,1390.65,,,,Asia
+Sri Lanka,nan,2019.0,3.7,1350.5,,,,Asia
+Sri Lanka,nan,2020.0,3.65,1332.25,,,,Asia
+Sri Lanka,nan,2021.0,4.27,1558.55,0.97,1.01,1.98,Asia
+Sri Lanka,nan,2022.0,4.87,1777.55,,,,Asia
+Sri Lanka,nan,2023.0,4.89,1784.85,,,,Asia
+Sri Lanka,nan,2024.0,5.16,1883.4,,,,Asia
+Sudan,nan,2017.0,2.59,945.35,,,,Africa
+Sudan,nan,2018.0,2.77,1011.05,,,,Africa
+Sudan,nan,2019.0,2.87,1047.55,,,,Africa
+Sudan,nan,2020.0,2.86,1043.9,,,,Africa
+Sudan,nan,2021.0,3.03,1105.9499999999998,0.6,0.36,0.96,Africa
+Sudan,nan,2022.0,2.75,1003.75,,,,Africa
+Sudan,nan,2023.0,2.94,1073.1,,,,Africa
+Sudan,nan,2024.0,3.32,1211.8,,,,Africa
+Suriname,nan,2017.0,4.4,1606.0000000000002,,,,South America
+Suriname,nan,2018.0,4.33,1580.45,,,,South America
+Suriname,nan,2019.0,4.67,1704.55,,,,South America
+Suriname,nan,2020.0,4.94,1803.1,,,,South America
+Suriname,nan,2021.0,5.44,1985.6,1.45,1.07,2.52,South America
+Suriname,nan,2022.0,5.88,2146.2,,,,South America
+Suriname,nan,2023.0,6.4,2336.0,,,,South America
+Suriname,nan,2024.0,6.16,2248.4,,,,South America
+Sweden,nan,2017.0,2.71,989.15,,,,Europe
+Sweden,nan,2018.0,2.77,1011.05,,,,Europe
+Sweden,nan,2019.0,2.91,1062.15,,,,Europe
+Sweden,nan,2020.0,3.0,1095.0,,,,Europe
+Sweden,nan,2021.0,3.06,1116.9,0.89,0.8,1.69,Europe
+Sweden,nan,2022.0,3.5,1277.5,,,,Europe
+Sweden,nan,2023.0,3.83,1397.95,,,,Europe
+Sweden,nan,2024.0,3.89,1419.85,,,,Europe
+Switzerland,nan,2017.0,2.39,872.35,,,,Europe
+Switzerland,nan,2018.0,2.45,894.2500000000001,,,,Europe
+Switzerland,nan,2019.0,2.55,930.75,,,,Europe
+Switzerland,nan,2020.0,2.59,945.35,,,,Europe
+Switzerland,nan,2021.0,2.63,959.95,0.69,0.63,1.3199999999999998,Europe
+Switzerland,nan,2022.0,2.84,1036.6,,,,Europe
+Switzerland,nan,2023.0,3.01,1098.65,,,,Europe
+Switzerland,nan,2024.0,3.07,1120.55,,,,Europe
+Syrian Arab Republic,nan,2017.0,2.5,912.5,,,,
+Syrian Arab Republic,nan,2018.0,2.54,927.1,,,,
+Syrian Arab Republic,nan,2019.0,2.61,952.65,,,,
+Syrian Arab Republic,nan,2020.0,3.91,1427.15,,,,
+Syrian Arab Republic,nan,2021.0,5.01,1828.65,0.36,0.83,1.19,
+Syrian Arab Republic,nan,2022.0,5.4,1971.0,,,,
+Syrian Arab Republic,nan,2023.0,5.61,2047.65,,,,
+Syrian Arab Republic,nan,2024.0,5.77,2106.05,,,,
+Tajikistan,nan,2017.0,2.99,1091.35,,,,Asia
+Tajikistan,nan,2018.0,2.99,1091.35,,,,Asia
+Tajikistan,nan,2019.0,3.17,1157.05,,,,Asia
+Tajikistan,nan,2020.0,3.43,1251.95,,,,Asia
+Tajikistan,nan,2021.0,3.53,1288.4499999999998,0.51,0.84,1.35,Asia
+Tajikistan,nan,2022.0,3.68,1343.2,,,,Asia
+Tajikistan,nan,2023.0,3.68,1343.2,,,,Asia
+Tajikistan,nan,2024.0,3.62,1321.3,,,,Asia
+Thailand,nan,2017.0,4.27,1558.55,,,,Asia
+Thailand,nan,2018.0,4.34,1584.1,,,,Asia
+Thailand,nan,2019.0,4.5,1642.5,,,,Asia
+Thailand,nan,2020.0,4.65,1697.2500000000002,,,,Asia
+Thailand,nan,2021.0,4.75,1733.75,0.94,0.83,1.77,Asia
+Thailand,nan,2022.0,5.17,1887.05,,,,Asia
+Thailand,nan,2023.0,5.46,1992.9,,,,Asia
+Thailand,nan,2024.0,5.65,2062.25,,,,Asia
+Togo,nan,2017.0,2.54,927.1,,,,Africa
+Togo,nan,2018.0,2.6,949.0,,,,Africa
+Togo,nan,2019.0,2.65,967.25,,,,Africa
+Togo,nan,2020.0,2.81,1025.65,,,,Africa
+Togo,nan,2021.0,3.12,1138.8,0.38,0.3,0.6799999999999999,Africa
+Togo,nan,2022.0,3.5,1277.5,,,,Africa
+Togo,nan,2023.0,3.58,1306.7,,,,Africa
+Togo,nan,2024.0,3.76,1372.4,,,,Africa
+Trinidad and Tobago,nan,2017.0,3.72,1357.8000000000002,,,,North America
+Trinidad and Tobago,nan,2018.0,3.87,1412.55,,,,North America
+Trinidad and Tobago,nan,2019.0,3.93,1434.45,,,,North America
+Trinidad and Tobago,nan,2020.0,4.11,1500.15,,,,North America
+Trinidad and Tobago,nan,2021.0,4.43,1616.9499999999998,1.08,1.19,2.27,North America
+Trinidad and Tobago,nan,2022.0,4.98,1817.7,,,,North America
+Trinidad and Tobago,nan,2023.0,5.35,1952.75,,,,North America
+Trinidad and Tobago,nan,2024.0,5.56,2029.4,,,,North America
+Tunisia,nan,2017.0,3.66,1335.9,,,,Africa
+Tunisia,nan,2018.0,3.72,1357.8000000000002,,,,Africa
+Tunisia,nan,2019.0,3.79,1383.35,,,,Africa
+Tunisia,nan,2020.0,3.81,1390.65,,,,Africa
+Tunisia,nan,2021.0,3.97,1449.0500000000002,0.6,1.17,1.77,Africa
+Tunisia,nan,2022.0,4.38,1598.7,,,,Africa
+Tunisia,nan,2023.0,4.77,1741.05,,,,Africa
+Tunisia,nan,2024.0,5.02,1832.3,,,,Africa
+Turks and Caicos Islands,nan,2017.0,2.8,1022.0,,,,North America
+Turks and Caicos Islands,nan,2018.0,2.91,1062.15,,,,North America
+Turks and Caicos Islands,nan,2019.0,2.99,1091.35,,,,North America
+Turks and Caicos Islands,nan,2020.0,3.13,1142.45,,,,North America
+Turks and Caicos Islands,nan,2021.0,3.27,1193.55,,,,North America
+Turks and Caicos Islands,nan,2022.0,3.63,1324.95,,,,North America
+Turks and Caicos Islands,nan,2023.0,3.88,1416.2,,,,North America
+Turks and Caicos Islands,nan,2024.0,4.05,1478.25,,,,North America
+TÃ¼rkiye,nan,2017.0,3.45,1259.25,,,,
+TÃ¼rkiye,nan,2018.0,3.59,1310.35,,,,
+TÃ¼rkiye,nan,2019.0,3.88,1416.2,,,,
+TÃ¼rkiye,nan,2020.0,3.73,1361.45,,,,
+TÃ¼rkiye,nan,2021.0,3.8,1387.0,0.6,0.96,1.56,
+TÃ¼rkiye,nan,2022.0,4.44,1620.6,,,,
+TÃ¼rkiye,nan,2023.0,4.65,1697.2500000000002,,,,
+TÃ¼rkiye,nan,2024.0,4.77,1741.05,,,,
+Uganda,nan,2017.0,3.12,1138.8,,,,Africa
+Uganda,nan,2018.0,3.03,1105.9499999999998,,,,Africa
+Uganda,nan,2019.0,2.93,1069.45,,,,Africa
+Uganda,nan,2020.0,2.9,1058.5,,,,Africa
+Uganda,nan,2021.0,2.95,1076.75,0.4,0.28,0.68,Africa
+Uganda,nan,2022.0,3.36,1226.4,,,,Africa
+Uganda,nan,2023.0,3.68,1343.2,,,,Africa
+Uganda,nan,2024.0,3.65,1332.25,,,,Africa
+United Arab Emirates,nan,2017.0,2.46,897.9,,,,Asia
+United Arab Emirates,nan,2018.0,2.74,1000.1,,,,Asia
+United Arab Emirates,nan,2019.0,2.87,1047.55,,,,Asia
+United Arab Emirates,nan,2020.0,2.85,1040.25,,,,Asia
+United Arab Emirates,nan,2021.0,2.66,970.9,0.3,0.45,0.75,Asia
+United Arab Emirates,nan,2022.0,2.93,1069.45,,,,Asia
+United Arab Emirates,nan,2023.0,3.11,1135.15,,,,Asia
+United Arab Emirates,nan,2024.0,3.22,1175.3000000000002,,,,Asia
+United Kingdom of Great Britain and Northern Ireland,nan,2017.0,1.7,620.5,,,,
+United Kingdom of Great Britain and Northern Ireland,nan,2018.0,1.75,638.75,,,,
+United Kingdom of Great Britain and Northern Ireland,nan,2019.0,1.83,667.95,,,,
+United Kingdom of Great Britain and Northern Ireland,nan,2020.0,1.86,678.9000000000001,,,,
+United Kingdom of Great Britain and Northern Ireland,nan,2021.0,1.9,693.5,0.43,0.57,1.0,
+United Kingdom of Great Britain and Northern Ireland,nan,2022.0,2.21,806.65,,,,
+United Kingdom of Great Britain and Northern Ireland,nan,2023.0,2.5,912.5,,,,
+United Kingdom of Great Britain and Northern Ireland,nan,2024.0,2.56,934.4,,,,
+United Republic of Tanzania,nan,2017.0,2.14,781.1,,,,
+United Republic of Tanzania,nan,2018.0,2.3,839.4999999999999,,,,
+United Republic of Tanzania,nan,2019.0,2.45,894.2500000000001,,,,
+United Republic of Tanzania,nan,2020.0,2.64,963.6,,,,
+United Republic of Tanzania,nan,2021.0,2.79,1018.35,0.21,0.17,0.38,
+United Republic of Tanzania,nan,2022.0,3.1,1131.5,,,,
+United Republic of Tanzania,nan,2023.0,3.32,1211.8,,,,
+United Republic of Tanzania,nan,2024.0,3.37,1230.05,,,,
+United States of America,nan,2017.0,2.17,792.05,,,,
+United States of America,nan,2018.0,2.18,795.7,,,,
+United States of America,nan,2019.0,2.2,803.0000000000001,,,,
+United States of America,nan,2020.0,2.28,832.1999999999999,,,,
+United States of America,nan,2021.0,2.36,861.4,0.74,0.53,1.27,
+United States of America,nan,2022.0,2.63,959.95,,,,
+United States of America,nan,2023.0,2.76,1007.4,,,,
+United States of America,nan,2024.0,2.79,1018.35,,,,
+Uruguay,nan,2017.0,2.78,1014.7,,,,South America
+Uruguay,nan,2018.0,2.93,1069.45,,,,South America
+Uruguay,nan,2019.0,3.08,1124.2,,,,South America
+Uruguay,nan,2020.0,3.45,1259.25,,,,South America
+Uruguay,nan,2021.0,3.65,1332.25,0.74,0.9,1.64,South America
+Uruguay,nan,2022.0,4.01,1463.65,,,,South America
+Uruguay,nan,2023.0,4.29,1565.85,,,,South America
+Uruguay,nan,2024.0,4.41,1609.65,,,,South America
+Uzbekistan,nan,2017.0,4.11,1500.15,,,,Asia
+Uzbekistan,nan,2018.0,4.06,1481.9,,,,Asia
+Uzbekistan,nan,2019.0,4.0,1460.0,,,,Asia
+Uzbekistan,nan,2020.0,3.97,1449.0500000000002,,,,Asia
+Uzbekistan,nan,2021.0,4.06,1481.9,0.47,1.03,1.5,Asia
+Uzbekistan,nan,2022.0,4.52,1649.8,,,,Asia
+Uzbekistan,nan,2023.0,4.78,1744.7,,,,Asia
+Uzbekistan,nan,2024.0,4.67,1704.55,,,,Asia
+Viet Nam,nan,2017.0,3.27,1193.55,,,,
+Viet Nam,nan,2018.0,3.33,1215.45,,,,
+Viet Nam,nan,2019.0,3.47,1266.5500000000002,,,,
+Viet Nam,nan,2020.0,3.79,1383.35,,,,
+Viet Nam,nan,2021.0,3.88,1416.2,0.65,0.63,1.28,
+Viet Nam,nan,2022.0,4.17,1522.05,,,,
+Viet Nam,nan,2023.0,4.35,1587.7499999999998,,,,
+Viet Nam,nan,2024.0,4.49,1638.85,,,,
+Zambia,nan,2017.0,2.73,996.45,,,,Africa
+Zambia,nan,2018.0,2.79,1018.35,,,,Africa
+Zambia,nan,2019.0,2.88,1051.2,,,,Africa
+Zambia,nan,2020.0,2.96,1080.4,,,,Africa
+Zambia,nan,2021.0,3.28,1197.1999999999998,0.31,0.36,0.6699999999999999,Africa
+Zambia,nan,2022.0,3.61,1317.65,,,,Africa
+Zambia,nan,2023.0,3.81,1390.65,,,,Africa
+Zambia,nan,2024.0,3.99,1456.35,,,,Africa
+Zimbabwe,nan,2017.0,3.54,1292.1,,,,Africa
