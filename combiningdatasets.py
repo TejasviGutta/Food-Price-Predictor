@@ -30,18 +30,14 @@ else:
     combined_df = combined_df.drop(columns=['price_type'], errors='ignore')
     combined_df = combined_df.drop(columns=['market'], errors='ignore')
 
-    # Load continents file
     continents_df = pd.read_csv(os.path.join(directory, 'continents_249.csv'))
 
-    # Clean column names
     combined_df.columns = combined_df.columns.str.strip().str.lower()
     continents_df.columns = continents_df.columns.str.strip().str.lower()
 
-    # Clean country names
     combined_df['country'] = combined_df['country'].astype(str).str.strip()
     continents_df['country'] = continents_df['country'].astype(str).str.strip()
 
-    # Merge (LEFT JOIN)
     combined_df = combined_df.merge(
         continents_df[['country', 'continent']],
         on='country',
