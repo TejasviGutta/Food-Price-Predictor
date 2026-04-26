@@ -4,10 +4,10 @@ export default function SplashScreen({ onMoveUp }) {
   const [moveUp, setMoveUp] = useState(false);
 
   useEffect(() => {
-    // Zoom in (1s) + pause (1s)
+    // Zoom (1s) + pause (1s)
     const startSlide = setTimeout(() => {
       setMoveUp(true);
-      onMoveUp(); // load content immediately
+      onMoveUp(); // ← tells App.jsx to load Welcome
     }, 2000);
 
     return () => clearTimeout(startSlide);
