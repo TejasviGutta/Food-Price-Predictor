@@ -1,0 +1,159 @@
+/* --------------------------------------------------
+   FONT + ROOT COLORS
+-------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+:root {
+  --primary-green: #4CAF50;
+  --dark-bg: #0d0d0d;
+  --accent-purple: #9b59b6;
+  --text-light: #f2f2f2;
+}
+
+/* --------------------------------------------------
+   GLOBAL
+-------------------------------------------------- */
+body {
+  margin: 0;
+  background-color: var(--dark-bg);
+  font-family: 'Inter', sans-serif;
+  color: var(--text-light);
+}
+
+/* --------------------------------------------------
+   SPLASH TITLE (ZOOM → PAUSE → SLIDE UP → STAY)
+-------------------------------------------------- */
+.splash-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding-top: 40vh;
+  pointer-events: none;
+}
+
+.splash-title {
+  font-size: 3rem;
+  color: var(--primary-green);
+  opacity: 0;
+  animation: zoomIn 1s ease-out forwards;
+  animation-fill-mode: forwards;
+}
+
+/* Zoom in */
+@keyframes zoomIn {
+  0% { opacity: 0; transform: scale(0.7); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+/* Slide upward and stay */
+.move-up .splash-title {
+  animation: slideUp 0.8s ease-out forwards;
+  animation-fill-mode: forwards;
+}
+
+@keyframes slideUp {
+  0% { transform: translateY(0) scale(1); }
+  100% { transform: translateY(-250px) scale(0.8); }
+}
+
+/* --------------------------------------------------
+   PAGE TRANSITION
+-------------------------------------------------- */
+.fade-in {
+  animation: fadeIn 0.8s ease-out forwards;
+  opacity: 0;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* --------------------------------------------------
+   PAGE LAYOUT
+-------------------------------------------------- */
+.page {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* --------------------------------------------------
+   INPUTS + BUTTONS
+-------------------------------------------------- */
+input, button {
+  display: block;
+  width: 100%;
+  margin: 12px 0;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 6px;
+}
+
+/* Inputs */
+input {
+  background-color: #1a1a1a;
+  border: 1px solid var(--accent-purple);
+  color: var(--text-light);
+}
+
+input::placeholder {
+  color: #888;
+}
+
+/* Buttons */
+button {
+  background-color: var(--primary-green);
+  color: var(--dark-bg);
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: var(--accent-purple);
+  color: white;
+}
+
+/* --------------------------------------------------
+   RESULTS PAGE STYLING
+-------------------------------------------------- */
+
+.results-page {
+  text-align: center;
+}
+
+.results-title {
+  font-size: 2.5rem;
+  color: var(--primary-green);
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.results-header {
+  color: var(--accent-purple);
+  font-size: 1.4rem;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.results-value {
+  color: var(--text-light);
+  font-size: 1.2rem;
+  margin: 4px 0;
+}
+
+.results-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
