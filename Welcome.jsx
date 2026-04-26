@@ -10,7 +10,7 @@ export default function Welcome() {
       </h1>
 
       <p style={{ maxWidth: "500px", margin: "0 auto 20px", lineHeight: "1.6" }}>
-        Predict future food prices based on your country, year, salary, and top commodities.
+        Predict future food prices based on your country, continent, and year.
       </p>
 
       <button onClick={() => navigate("/entry")}>
