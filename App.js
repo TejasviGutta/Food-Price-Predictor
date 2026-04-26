@@ -11,10 +11,10 @@ export default function App() {
 
   return (
     <Router>
-      {/* Splash always shows first */}
+      {/* Splash animation */}
       <SplashScreen onMoveUp={() => setShowContent(true)} />
 
-      {/* After splash animation, show the real app */}
+      {/* Only show routes AFTER splash finishes */}
       {showContent && (
         <Routes>
           <Route path="/" element={<Welcome />} />
