@@ -5,24 +5,24 @@ export default function EntryForm() {
   const navigate = useNavigate();
 
   const [country, setCountry] = useState("");
+  const [continent, setContinent] = useState("");
   const [year, setYear] = useState("");
-  const [salary, setSalary] = useState("");
-  const [commodities, setCommodities] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const commodityList = commodities
-      .split(",")
-      .map((item) => item.trim())
-      .filter((item) => item.length > 0);
+    if (!country && !continent) {
+      alert("Please enter either a country or a continent.");
+      return;
+    }
+
+    const finalContinent = country && continent ? "N/A" : continent;
 
     navigate("/results", {
       state: {
         country,
+        continent: finalContinent,
         year,
-        salary,
-        commodities: commodityList,
       },
     });
   };
@@ -39,32 +39,23 @@ export default function EntryForm() {
       >
         <input
           type="text"
-          placeholder="Country"
+          placeholder="Country (optional)"
           value={country}
           onChange={(e) => setCountry(e.target.value)}
-          required
-        />
-
-        <input
-          type="number"
-          placeholder="Year"
-          value={year}
-          onChange={(e) => setYear(e.target.value)}
-          required
-        />
-
-        <input
-          type="number"
-          placeholder="Salary (optional)"
-          value={salary}
-          onChange={(e) => setSalary(e.target.value)}
         />
 
         <input
           type="text"
-          placeholder="Top commodities (comma separated)"
-          value={commodities}
-          onChange={(e) => setCommodities(e.target.value)}
+          placeholder="Continent (optional)"
+          value={continent}
+          onChange={(e) => setContinent(e.target.value)}
+        />
+
+        <input
+          type="number"
+          placeholder="Year (required)"
+          value={year}
+          onChange={(e) => setYear(e.target.value)}
           required
         />
 
