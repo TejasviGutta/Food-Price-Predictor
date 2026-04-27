@@ -1,15 +1,11 @@
-"""
-model.py — Food Cost Predictor
-Usage:
-    from model import FoodCostPredictor
-    model = FoodCostPredictor("FP_output.csv")
-    model.predict(2030)
-    model.predict(2030, country="Germany")
-    model.predict(2030, continent="Asia")
-    model.predict(2030, country="Brazil", cpi_change=6.0)
-    model.list_countries()
-    model.list_continents()
-"""
+# Running in terminal
+# python model.py --year 2030
+# python model.py --year 2030 --country Germany
+# python model.py --year 2030 --continent Asia
+# python model.py --year 2030 --country Brazil --cpi_change 6.0
+# Interactive mode:
+# python model.py
+
 
 import argparse
 import numpy as np
