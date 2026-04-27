@@ -116,7 +116,6 @@ class FoodCostPredictor:
         return np.array(c + ct)
 
     # Train
-
     def _make_X(self, df):
         numeric = df[["year_norm", "cpi_change_pct", "lag1", "lag2"]].values
         ohe     = np.vstack([self._ohe(r["country"], r["continent"]) for _, r in df.iterrows()])
