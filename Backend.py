@@ -60,6 +60,8 @@ def predict():
         "country":    country or continent or "Global",
         "continent":  continent,
         "cpi_change": result["cpi_change_used"],
+        "annual_cost_healthy_diet": result["annual_cost_healthy_diet"],
+        "annual_cost_fruits_and_veg": result["annual_cost_fruits_and_veg"],
         "costs": Costs
     }
 
