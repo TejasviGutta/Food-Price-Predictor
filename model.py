@@ -1,16 +1,3 @@
-"""
-model.py — Food Cost Predictor
-Usage:
-    from model import FoodCostPredictor
-    model = FoodCostPredictor("foodprices_output.csv")
-    model.predict(2030)
-    model.predict(2030, country="Germany")
-    model.predict(2030, continent="Asia")
-    model.predict(2030, country="Brazil", cpi_change=6.0)
-    model.list_countries()
-    model.list_continents()
-"""
-
 import argparse
 import numpy as np
 import pandas as pd
@@ -30,7 +17,6 @@ class FoodCostPredictor:
         self._train()
         self._fit_trend_models()
 
-    # Load & clean
 
     def _load(self, path):
         df = pd.read_csv(path)
@@ -87,7 +73,7 @@ class FoodCostPredictor:
         return float((s[num] / s[den].replace(0, np.nan)).median()) if not s.empty else 1.0
 
     # CPI table
-
+    
     def _build_cpi_table(self):
         g = self._df.groupby("year")["cpi_pct"].mean().dropna()
         self._cpi_global   = dict(g)
