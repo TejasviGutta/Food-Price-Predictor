@@ -1,17 +1,22 @@
-# Running in terminal
-# python model.py --year 2030
-# python model.py --year 2030 --country Germany
-# python model.py --year 2030 --continent Asia
-# python model.py --year 2030 --country Brazil --cpi_change 6.0
-# Interactive mode:
-# python model.py
-
+"""
+model.py — Food Cost Predictor
+Usage:
+    from model import FoodCostPredictor
+    model = FoodCostPredictor("foodprices_output.csv")
+    model.predict(2030)
+    model.predict(2030, country="Germany")
+    model.predict(2030, continent="Asia")
+    model.predict(2030, country="Brazil", cpi_change=6.0)
+    model.list_countries()
+    model.list_continents()
+"""
 
 import argparse
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score
 
 TARGETS = ["annual_cost_healthy_diet", "annual_total_food_cost", "annual_cost_fruits_and_veg"]
 
@@ -24,6 +29,8 @@ class FoodCostPredictor:
         self._build_ohe()
         self._train()
         self._fit_trend_models()
+
+    # Load & clean
 
     def _load(self, path):
         df = pd.read_csv(path)
@@ -79,6 +86,8 @@ class FoodCostPredictor:
         s = df.loc[mask]
         return float((s[num] / s[den].replace(0, np.nan)).median()) if not s.empty else 1.0
 
+    # CPI table
+
     def _build_cpi_table(self):
         g = self._df.groupby("year")["cpi_pct"].mean().dropna()
         self._cpi_global   = dict(g)
@@ -106,6 +115,7 @@ class FoodCostPredictor:
         return float(self._cpi_trend.predict([[year - self._cpi_base_yr]])[0])
 
     # One-hot encoding
+
     def _build_ohe(self):
         self._countries  = sorted(self._df["country"].unique())
         self._continents = sorted(self._df["continent"].unique())
@@ -115,7 +125,8 @@ class FoodCostPredictor:
         ct = [1.0 if x == continent else 0.0 for x in self._continents]
         return np.array(c + ct)
 
-    # Train
+    # Train 
+
     def _make_X(self, df):
         numeric = df[["year_norm", "cpi_change_pct", "lag1", "lag2"]].values
         ohe     = np.vstack([self._ohe(r["country"], r["continent"]) for _, r in df.iterrows()])
@@ -130,15 +141,18 @@ class FoodCostPredictor:
 
         self._models = {}
         for t in TARGETS:
-            X_tr, _, y_tr, _ = train_test_split(X, df[t].values, test_size=0.2, random_state=42)
+            X_tr, X_te, y_tr, y_te = train_test_split(X, df[t].values, test_size=0.2, random_state=42)
             reg = GradientBoostingRegressor(n_estimators=300, max_depth=4,
                                             learning_rate=0.05, subsample=0.8,
                                             min_samples_leaf=5, random_state=42)
             reg.fit(X_tr, y_tr)
             self._models[t] = reg
+            print(f"  {t}: R² = {r2_score(y_te, reg.predict(X_te)):.3f}")
 
         last = df.sort_values("year").groupby("country").last()
         self._last = last[["lag1", "lag2"]].to_dict(orient="index")
+
+    # Trend models
 
     def _fit_trend_models(self):
         def cagr(series):
@@ -158,7 +172,8 @@ class FoodCostPredictor:
         self._anchor_continent = {c: g.groupby("year")[TARGETS].mean().iloc[-1].to_dict()
                                    for c, g in df.groupby("continent")}
 
-    # Predict 
+    # Predict
+
     def predict(self, year, country=None, continent=None, cpi_change=None):
         if country and country not in self._countries:
             raise ValueError(f"Unknown country '{country}'. Use list_countries().")
@@ -219,7 +234,7 @@ class FoodCostPredictor:
             for t in TARGETS
         }
 
-    # Helpers 
+    # Helpers
     def list_countries(self):
         return sorted(self._countries)
 
@@ -251,7 +266,7 @@ if __name__ == "__main__":
         print("Continents:", model.list_continents())
     elif args.year:
         r = model.predict(args.year, args.country, args.continent, args.cpi_change)
-        warn = "extrapolation" if r["extrapolation"] else ""
+        warn = "  ⚠ extrapolation" if r["extrapolation"] else ""
         print(f"\n  Year   : {r['year']}  [{r['scope']}]{warn}")
         print(f"  CPI    : {r['cpi_change_used']:.2f}%")
         print(f"  Healthy diet cost      : ${r['annual_cost_healthy_diet']:>14,.2f}")
@@ -266,7 +281,7 @@ if __name__ == "__main__":
                 cnt = input("Continent (blank=skip) : ").strip() or None if not co else None
                 cpi = input("CPI % (blank=auto)     : ").strip()
                 r = model.predict(int(yr), co, cnt, float(cpi) if cpi else None)
-                warn = "extrapolation" if r["extrapolation"] else ""
+                warn = "  ⚠ extrapolation" if r["extrapolation"] else ""
                 print(f"\n  Year   : {r['year']}  [{r['scope']}]{warn}")
                 print(f"  CPI    : {r['cpi_change_used']:.2f}%")
                 print(f"  Healthy diet cost      : ${r['annual_cost_healthy_diet']:>14,.2f}")
