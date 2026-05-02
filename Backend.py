@@ -21,7 +21,7 @@ def validate_inputs(year, country, continent):
         errors.append(f"Country '{country}' not found. Please add country's full name before running again.")
 
     if continent and not country and continent not in predictor.list_continents():
-        errors.append(f"Continent '{continent}' not found. Either input continent's name correctly or try another continent.")
+        errors.append(f"Continent '{continent}' not found. Continent's name spelled incorrectly or continent does not exist.")
 
     return errors
 
