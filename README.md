@@ -67,5 +67,6 @@ Then open http://localhost:3000 in your browser.
   .venv\Scripts\activate
   ```
 - To run the juypter notebooks and graphs in notebooks
-   ```pip install matplotlib jupyter
+   ```bash
+   pip install matplotlib jupyter
    ```
