@@ -73,7 +73,7 @@ class FoodCostPredictor:
         return float((s[num] / s[den].replace(0, np.nan)).median()) if not s.empty else 1.0
 
     # CPI table
-    
+
     def _build_cpi_table(self):
         g = self._df.groupby("year")["cpi_pct"].mean().dropna()
         self._cpi_global   = dict(g)
@@ -252,7 +252,7 @@ if __name__ == "__main__":
         print("Continents:", model.list_continents())
     elif args.year:
         r = model.predict(args.year, args.country, args.continent, args.cpi_change)
-        warn = "  ⚠ extrapolation" if r["extrapolation"] else ""
+        warn = "extrapolation" if r["extrapolation"] else ""
         print(f"\n  Year   : {r['year']}  [{r['scope']}]{warn}")
         print(f"  CPI    : {r['cpi_change_used']:.2f}%")
         print(f"  Healthy diet cost      : ${r['annual_cost_healthy_diet']:>14,.2f}")
@@ -267,7 +267,7 @@ if __name__ == "__main__":
                 cnt = input("Continent (blank=skip) : ").strip() or None if not co else None
                 cpi = input("CPI % (blank=auto)     : ").strip()
                 r = model.predict(int(yr), co, cnt, float(cpi) if cpi else None)
-                warn = "  ⚠ extrapolation" if r["extrapolation"] else ""
+                warn = "extrapolation" if r["extrapolation"] else ""
                 print(f"\n  Year   : {r['year']}  [{r['scope']}]{warn}")
                 print(f"  CPI    : {r['cpi_change_used']:.2f}%")
                 print(f"  Healthy diet cost      : ${r['annual_cost_healthy_diet']:>14,.2f}")
