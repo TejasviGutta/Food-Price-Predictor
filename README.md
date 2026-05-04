@@ -9,11 +9,7 @@ Food Price Predictor is a local web app for analyzing food price data and runnin
 
 ## Setup
 
-1. Open a terminal in the project folder:
-
-   ```bash
-   cd /Users/sahitithopucherla/Documents/Food-Price-Predictor
-   ```
+1. Download all files and open a terminal in the project folder.
 
 2. Create and activate the virtual environment (macOS / Linux):
 
@@ -22,7 +18,18 @@ Food Price Predictor is a local web app for analyzing food price data and runnin
    source .venv/bin/activate
    ```
 
-3. Install Python dependencies if needed.
+3. Install Python dependencies if needed:
+    ```bash
+   
+    pip install flask flask-cors
+
+    # For Mac/Linux  - source venv/bin/activate 
+    pip install flask flask-cors
+
+    pip -m install numpy
+    pip -m install pandas
+    pip -m install scikit-learn
+   ```
 
 4. Install frontend dependencies:
 
@@ -34,20 +41,18 @@ Food Price Predictor is a local web app for analyzing food price data and runnin
 
 ### Backend
 
-In terminal 1:
+In terminal 1 in your project folder:
 
 ```bash
-cd /Users/sahitithopucherla/Documents/Food-Price-Predictor
 source .venv/bin/activate
 python3 Backend.py
 ```
 
 ### Frontend
 
-In terminal 2:
+In terminal 2 in your project folder:
 
 ```bash
-cd /Users/sahitithopucherla/Documents/Food-Price-Predictor
 npm start
 ```
 
