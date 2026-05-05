@@ -26,9 +26,9 @@ Food Price Predictor is a local web app for analyzing food price data and runnin
     # For Mac/Linux  - source venv/bin/activate 
     pip install flask flask-cors
 
-    pip -m install numpy
-    pip -m install pandas
-    pip -m install scikit-learn
+    pip install numpy
+    pip install pandas
+    pip install scikit-learn
    ```
 
 4. Install frontend dependencies:
